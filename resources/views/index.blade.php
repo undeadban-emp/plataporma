@@ -16,13 +16,13 @@
 <div class="candidate w-224"><a href=""><img src="" alt="" title=""></a></div>
 <div class="candidate w-224 m-negmargin-5"><a href=""><img src="" alt="" title=""></a></div>
 <div class="candidate w-224 m-negmargin-5"><a href=""><img src="" alt="" title=""></a></div>
-<div class="candidate w-224 m-negmargin-5"><a href=""><img src="assets/images/ayek.png" alt="" title=""></a></div>
+<div class="candidate w-224 m-negmargin-5"><a href=""><img src="{{ asset('/public/assets/images/ayek.png') }}" alt="" title=""></a></div>
 <div class="clear"></div>
 <div class="clear"></div>
 <div class="candidate w-270 clg-hidden"><a href=""><img src="" class="lg-hidden" alt="" title=""></a></div>
 <div class="candidate w-224 cxs-hidden"><a href=""><img src="" alt="" title=""></a></div>
-<div class="candidate w-224"><a href=""><img src="assets/images/johny.png" alt="" title=""></a></div>
-<div class="candidate w-224 m-negmargin-5"><a href=""><img src="assets/images/johny.png" alt="" title=""></a></div>
+<div class="candidate w-224"><a href=""><img src="{{ asset('/public/assets/images/johny.png') }}" alt="" title=""></a></div>
+<div class="candidate w-224 m-negmargin-5"><a href=""><img src="{{ asset('/public/assets/images/johny.png') }}" alt="" title=""></a></div>
 <div class="candidate w-224 m-negmargin-5"><a href=""><img src="" alt="" title=""></a></div>
 <div class="clear"></div>
 </div>
@@ -41,7 +41,7 @@
             <div class="clear"></div>
 	</div>
 	<div class="diagonal-divider-bottom">
-		<img src="assets/images/divider_white_blue.png" >
+		<img src="{{ asset('/public/assets/images/divider_white_blue.png') }}" >
 	</div>
 </div>
 

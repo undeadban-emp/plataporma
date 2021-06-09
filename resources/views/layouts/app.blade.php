@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en-ph"><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <meta charset="utf-8">
@@ -11,14 +11,14 @@
 <meta property="og:description" content="" />
 <title>Surigaonon Para sa Surigao</title>
 
-<meta name="keywords" content="Surigaonon Para sa Surigao, Gov. Ayek T. Pimentel, Cong. Johny T. Pimentel, Vj Pimentel,  Philip Pichay, Mary Grace S. Kimura, Jane V. Plaza, Marvin T. Azarcon, Dennis Yu, Roxanne Pimentel, Henrich Pimentel, Poly Lozada, Glenn Batiansila, Dodoy Fazon, Nicolas Alameda, Kid Pedrozo, oey Pama, Shem Garay, Enciong Garay, Boyet Evangelio, Michael T. Corilla, Generoso L. Naraiso">
+<meta name="keywords" content="Surigaonon Para sa Surigao, Gov. Ayek T. Pimentel, Cong. Johnny T. Pimentel, Vj Pimentel,  Philip Pichay, Mary Grace S. Kimura, Jane V. Plaza, Marvin T. Azarcon, Dennis Yu, Roxanne Pimentel, Henrich Pimentel, Poly Lozada, Glenn Batiansila, Dodoy Fazon, Nicolas Alameda, Kid Pedrozo, oey Pama, Shem Garay, Enciong Garay, Boyet Evangelio, Michael T. Corilla, Generoso L. Naraiso">
 <meta name="title" content="Surigaonon Para sa Surigao" />
 <meta name="description" content="Surigaonon Para sa Surigao" />
 
 <!-- STYLESHEETS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
-<link href="{{ asset('/assets/css/font-awesome.min.css') }}" rel="stylesheet" />
-<link href="{{ asset('/assets/css/ansiblebfda.css?v=04.23.2019.1836') }} " rel="stylesheet" />
+<link href="{{ asset('/public/assets/css/font-awesome.min.css') }}" rel="stylesheet" />
+<link href="{{ asset('/public/assets/css/ansiblebfda.css?v=04.23.2019.1836') }} " rel="stylesheet" />
 </head>
 <body>
     <div class="header carousel slide" data-ride="carousel" id="header-carousel">
@@ -30,16 +30,16 @@
       </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="assets/images/1.jpg" alt="">
+                <img src="{{ asset('/public/assets/images/1.jpg') }}" alt="">
             </div>
             <div class="carousel-item">
-                <a href="quiz/index.html" target="_blank"><img src="assets/images/2.jpg" alt=""></a>
+                <a href="#" target="_blank"><img src="{{ asset('/public/assets/images/2.jpg') }}" alt=""></a>
             </div>
             <div class="carousel-item">
-                <img src="assets/images/3.jpg" alt="">
+                <img src="{{ asset('/public/assets/images/3.jpg')  }}" alt="">
             </div>
             <div class="carousel-item">
-                <img src="assets/images/4.jpg" alt="">
+                <img src="{{ asset('/public/assets/images/4.jpg') }}" alt="">
             </div>
         </div>
     </div>
@@ -53,7 +53,7 @@
                 <div class="subnav2" id="kilalanin">
                     <p>
                         <a href="">Ayek T. Pimentel</a>
-                        <a href="">Johny T. Pimentel</a>
+                        <a href="">Johnny T. Pimentel</a>
                         <a href="">Vj Pimentel</a>
                         <a href="">Philip Pichay</a>
                         <a href="">Mary Grace S. Kimura</a>
@@ -124,7 +124,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
 <script src="https://cdn.jsdelivr.net/bootstrap.native/1.0.4/bootstrap-native.js"></script>
-<script src="{{ asset('/assets/js/ansible9f92.js?v=03.07.2019.2149') }}"></script>
+<script src="{{ asset('/public/assets/js/ansible9f92.js?v=03.07.2019.2149') }}"></script>
 
 </body>
 
