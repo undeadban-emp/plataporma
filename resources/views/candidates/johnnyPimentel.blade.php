@@ -19,7 +19,7 @@
 <!--Platform -->
 <div class="section yellow candidate-platform">
 	<div class="diagonal-divider-top">
-		<img src="{{ asset('/public/assets/images/divider-white-0.png') }}" >
+        <img src="{{ asset('/public/assets/images/divider-white-0.png') }}" >
 	</div>
 	<div class="top-pad">&nbsp;</div>
 	<div class="platform">

@@ -26,15 +26,15 @@
         <li data-target="#header-carousel" data-slide-to="0" class="active"></li>
         <li data-target="#header-carousel" data-slide-to="1"></li>
         <li data-target="#header-carousel" data-slide-to="2"></li>
-        <li data-target="#header-carousel" data-slide-to="3"></li>
+        {{-- <li data-target="#header-carousel" data-slide-to="3"></li> --}}
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="{{ asset('/public/assets/images/header2.jpg') }}" alt="">
             </div>
-            <div class="carousel-item">
-                <img src="{{ asset('/public/assets/images/header1.jpg') }}" alt="">
-            </div>
+            {{-- <div class="carousel-item">
+                <img src="{{ asset('/assets/images/header1.jpg') }}" alt="">
+            </div> --}}
             <div class="carousel-item">
                 <img src="{{ asset('/public/assets/images/header4.jpg') }}" alt="">
             </div>
