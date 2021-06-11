@@ -15,7 +15,7 @@
 
 <div class="section white">
 	<div class="diagonal-divider-bottom">
-		<img src="{{ asset('/assets/images/divider-0-grey.png') }}" >
+		<img src="{{ asset('/public/assets/images/divider-0-grey.png') }}" >
 	</div>
 </div>
 
@@ -23,7 +23,7 @@
 <div class="section grey">
 	<div class="platform">
 		<h1 class="fgrey">sample plataporma</h1>
-		<p class="ico"><img src="{{ asset('assets/images/favicon.png') }}"></p>
+		<p class="ico"><img src="{{ asset('/public/assets//images/favicon.png') }}"></p>
 		<ul>
 			<li><p>&bull;Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi, quam dolore labore similique animi eum pariatur adipisci architecto eius sapiente quia sint modi dicta cumque mollitia facilis ex distinctio exercitationem?</p></li>
 			<li><p>&bull; Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium sunt nobis culpa nisi, quisquam ratione enim minima repellendus asperiores unde blanditiis necessitatibus odio quibusdam cupiditate perspiciatis! Corrupti vel labore illum.</p></li>
@@ -33,7 +33,7 @@
 </div>
 <div class="section grey">
 	<div class="diagonal-divider-top">
-		<img src="{{ asset('/assets/images/divider-grey-0.png') }}" >
+		<img src="{{ asset('/public/assets/images/divider-grey-0.png') }}" >
 	</div>
 </div>
 
@@ -42,7 +42,7 @@
 	<div class="platform">
 		<div class="top-pad">&nbsp;</div>
 		<h1 class="fwhite">sample plataporma</h1>
-		<p class="ico"><img src="{{ asset('/assets/images/favicon.png') }}"></p>
+		<p class="ico"><img src="{{ asset('/public/assets/images/favicon.png') }}"></p>
 		<ul>
 			<li><p style="color:white;">&bull; Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis placeat asperiores nihil aliquid temporibus totam suscipit aperiam repudiandae fugit pariatur, fugiat natus aut repellendus perspiciatis illo eius sint doloremque dolorum!</p></li>
 			<li><p style="color:white;">&bull; Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, dolorum alias. Nostrum expedita perspiciatis eaque eos aut ducimus ad qui excepturi voluptates iusto labore reiciendis architecto, recusandae ipsum iste quidem!</p></li>
@@ -52,7 +52,7 @@
 </div>
 <div class="section white">
 	<div class="diagonal-divider-bottom">
-		<img src="{{asset('/assets/images/divider-0-white.png')}}" >
+		<img src="{{asset('/public/assets/images/divider-0-white.png')}}" >
 	</div>
 </div>
 
