@@ -53,7 +53,7 @@
     <!-- Highlight -->
 <div class="section highlight">
 	<div class="diagonal-divider-top">
-		<img src="assets/images/divider-white-0.png" >
+		<img src="{{ asset('/public/assets/images/divider-white-0.png') }}" >
 	</div>
 	<div class="carousel slide" data-ride="carousel" id="group1">
 		<div class="carousel-inner">

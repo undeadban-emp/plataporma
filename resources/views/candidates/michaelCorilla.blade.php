@@ -6,7 +6,7 @@
 @section('content')
 <div class="section candidate-holder">
 	<div class="candidate">
-		<img src="{{ asset('assets/images/ayek-plataporma-solo.png') }}" alt="" title="">
+		<img src="{{ asset('/public/assets/images/ayek-plataporma-solo.png') }}" alt="" title="">
 	</div>
 </div>
 
@@ -19,13 +19,13 @@
 <!--Platform -->
 <div class="section yellow candidate-platform">
 	<div class="diagonal-divider-top">
-		<img src="assets/images/divider-white-0.png" >
+		<img src="{{ asset('/public/assets/images/divider-white-0.png') }}" >
 	</div>
 	<div class="top-pad">&nbsp;</div>
 	<div class="platform">
 		<h1 class="fgrey">PLATAPORMA</h1>
 		<div class="ico">
-			<p><img src="{{ asset('assets/images/favicon.png') }}"></p>
+			<p><img src="{{ asset('/public/assets/images/favicon.png') }}"></p>
 		</div>
 		<div class="desc">
 			<h1 class="fgrey">Lorem ipsum dolor sit amet </h1>
@@ -39,21 +39,21 @@
 <!-- Divider -->
 <div class="section white">
 	<div class="diagonal-divider-top">
-		<img src="assets/images/divider-yellow-0.png" >
+		<img src="{{ asset('/public/assets/images/divider-yellow-0.png') }}" >
 	</div>
 	<div class="diagonal-divider-bottom inner-cand">
-		<img src="assets/images/divider-0-grey.png" >
+		<img src="{{ asset('/public/assets/images/divider-0-grey.png') }}" >
 	</div>
 	<div class="carousel slide" data-ride="carousel" id="group1">
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img src="{{ asset('assets/images/ayek-plataporma.jpg') }}">
+				<img src="{{ asset('/public/assets/images/ayek-plataporma.jpg') }}">
 			</div>
 			<div class="carousel-item">
-				<img src="{{ asset('assets/images/ayek-plataporma2.jpg') }}">
+				<img src="{{ asset('/public/assets/images/ayek-plataporma2.jpg') }}">
 			</div>
 			<div class="carousel-item">
-				<img src="{{ asset('assets/images/ayek-plataporma3.jpg') }}">
+				<img src="{{ asset('/public/assets/images/ayek-plataporma3.jpg') }}">
 			</div>
 		</div>
 	</div>
@@ -82,7 +82,7 @@
 
 <div class="section white">
 	<div class="diagonal-divider-top">
-		<img src="assets/images/divider-grey-0.png" >
+		<img src="{{ asset('/public/assets/images/divider-grey-0.png') }}" >
 	</div>
 	<div class="top-pad">&nbsp;</div>
 </div>
