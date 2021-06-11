@@ -17,9 +17,13 @@
     </div>
     </div>
     <div class="clear"></div>
-    <div class="candidate w-225 m-negmargin-5"><a href="{{ url('/romeo-s-momo') }}"><img src="{{ asset('assets/images/momo.png') }}" alt="Romeo S. Momo" title="Romeo S. Momo"></a></div>
-    <div class="candidate w-225 "><a href="{{ url('/johnny-t-pimentel') }}"><img src="{{ asset('assets/images/johnny.png') }}" alt="Johnny T. Pimentel" title="Johnny T. Pimentel"></a></div>
-
+    <div class="candidate w-224 m-negmargin-5"><a href="{{ url('/romeo-s-momo') }}"><img src="{{ asset('assets/images/momo.png') }}" alt="Romeo S. Momo" title="Romeo S. Momo"></a></div>
+    <div class="candidate w-224 m-negmargin-5"><a href="{{ url('/johnny-t-pimentel') }}"><img src="{{ asset('assets/images/johnny.png') }}" alt="Johnny T. Pimentel" title="Johnny T. Pimentel"></a></div>
+    <div class="clear"></div>
+    <div class="candidate w-224 negmargin-5"><a href="gutoc.html"><img src="assets/images/sample1.png" alt="Samira Gutoc" title="Samira Gutoc"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="roxas.html"><img src="assets/images/sample2.png" alt="Mar Roxas" title="Mar Roxas"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="aquino.html"><img src="assets/images/sample3.png" alt="Bam Aquino" title="Bam Aquino"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="diokno.html"><img src="assets/images/sample4.png" alt="Chel Diokno" title="Chel Diokno"></a></div>
     <div class="clear"></div>
     </div>
 
