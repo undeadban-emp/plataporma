@@ -91,8 +91,9 @@
 .toTop a {
     font-size: 24px;
     color: rgba(255, 255, 255, 0.8) !important;
-    background: rgba(211, 42, 39, 0.8);
-    border-radius: 15%;
+    background: rgb(0, 0, 255);
+    border-radius: 50%;
+    cursor: pointer;
     line-height: 40px;
     pointer-events: pointer;
     display: block;
@@ -100,9 +101,9 @@
     height: 100%;
     vertical-align: middle;
     text-align: center;
-    -webkit-transition: 0.5s;
-    -moz-transition: 0.5s;
-    transition: 0.5s;
+    -webkit-transition: 1.5s;
+    -moz-transition: 1.5s;
+    transition: 1.5s;
 }
 .toTop a:before {
     color: #fff;
@@ -145,8 +146,8 @@
 .nav .nav-option a {
     color: #fff;
     text-decoration: none;
-    border-bottom: 4#2b45d7 2px solid;
-    border-top: #2b45d7 2px solid;
+    /* border-bottom: #d42a29 2px solid;
+    border-top: #d42a29 2px solid; */
     text-transform: uppercase;
     margin: 0 7.5px;
     -webkit-transition: 0.5s;
@@ -156,7 +157,7 @@
 .nav p a.icon,
 .nav .nav-option a.icon {
     background: #fff;
-    color: #d72c2b;
+    color: #2b45d7;
     width: 30px;
     height: 30px;
     display: inline-block;
@@ -1140,7 +1141,7 @@ nav.otso {
 .footer-links p,
 .footer-links a {
     font-family: gotham, Arial, sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     color: #fff;
     font-weight: 100;
 }

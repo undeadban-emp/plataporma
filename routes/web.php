@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+
+Route::resource('/alexander-t-pimentel', 'alexanderController');
+Route::resource('/romeo-s-momo', 'RomeoMomoController');
+Route::resource('/johnny-t-pimentel', 'johnnyController');
