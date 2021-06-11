@@ -36,10 +36,10 @@
                 <img src="{{ asset('/public/assets/images/header1.jpg') }}" alt="">
             </div>
             <div class="carousel-item">
-                <img src="{{ asset('/public/assets/images/header3.jpg') }}" alt="">
+                <img src="{{ asset('/public/assets/images/header4.jpg') }}" alt="">
             </div>
             <div class="carousel-item">
-                <img src="{{ asset('/public/assets/images/4.jpg') }}" alt="">
+                <img src="{{ asset('/public/assets/images/header3.jpg') }}" alt="">
             </div>
         </div>
     </div>
