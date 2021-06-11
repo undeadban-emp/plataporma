@@ -166,7 +166,7 @@
     vertical-align: middle;
     line-height: 30px;
     border: #fff 2px solid;
-    color: #d72c2b;
+    color: #0c86ee;
     line-height: 28px;
 }
 .nav p a:hover,
@@ -1312,6 +1312,34 @@ nav.otso {
     background: #4e4e4e;
     color: #fff;
     border: #fff 10px solid;
+}
+
+.big-button {
+    text-align: center;
+    padding: 20px;
+}
+.big-button a {
+    font-family: gotham, Arial, sans-serif;
+    font-style: italic;
+    font-size: 48px;
+    text-align: center;
+    font-weight: 600;
+    padding: 15px 50px;
+    border-radius: 25px;
+    border: white 10px solid;
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    transition: 0.5s;
+}
+.big-button a:hover,
+.big-button a:focus,
+.big-button a:active {
+    background: white;
+    color: black;
+    border: black 10px solid;
 }
 
 /** Backgrounds **/

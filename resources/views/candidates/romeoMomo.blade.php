@@ -6,7 +6,7 @@
 @section('content')
 <div class="section candidate-holder">
 	<div class="candidate">
-		<img src="{{ asset('assets/images/momo-plataporma-solo.png') }}" alt="" title="">
+		<img src="{{ asset('/public/assets/images/momo-plataporma-solo.png') }}" alt="" title="">
 	</div>
 </div>
 
@@ -25,7 +25,7 @@
 	<div class="platform">
 		<h1 class="fgrey">PLATAPORMA</h1>
 		<div class="ico">
-			<p><img src="{{ asset('assets/images/favicon.png') }}"></p>
+			<p><img src="{{ asset('/public/assets/images/favicon.png') }}"></p>
 		</div>
 		<div class="desc">
 			<h1 class="fgrey">Lorem ipsum dolor sit amet </h1>
@@ -39,21 +39,21 @@
 <!-- Divider -->
 <div class="section white">
 	<div class="diagonal-divider-top">
-		<img src="assets/images/divider-yellow-0.png" >
+		<img src="{{ asset('/public/assets/images/divider-yellow-0.png') }}" >
 	</div>
 	<div class="diagonal-divider-bottom inner-cand">
-		<img src="assets/images/divider-0-grey.png" >
+		<img src="{{ asset('public/assets/images/divider-0-grey.png') }}" >
 	</div>
 	<div class="carousel slide" data-ride="carousel" id="group1">
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img src="{{ asset('assets/images/ayek-plataporma.jpg') }}">
+				<img src="{{ asset('/public/assets/images/ayek-plataporma.jpg') }}">
 			</div>
 			<div class="carousel-item">
-				<img src="{{ asset('assets/images/ayek-plataporma2.jpg') }}">
+				<img src="{{ asset('/public/assets/images/ayek-plataporma2.jpg') }}">
 			</div>
 			<div class="carousel-item">
-				<img src="{{ asset('assets/images/ayek-plataporma3.jpg') }}">
+				<img src="{{ asset('/public/assets/images/ayek-plataporma3.jpg') }}">
 			</div>
 		</div>
 	</div>
@@ -79,28 +79,10 @@
 		<div class="clear"></div>
 	</div>
 </div>
-<div class="section blue candidate-description">
-	<div class="diagonal-divider-top">
-		<img src="assets/images/divider-grey-0.png" >
-	</div>
-	<div class="top-pad5">&nbsp;</div>
-	<div class="resume">
-		<p>&nbsp;</p>
-		<h1 class="fwhite">EDUKASYON</h1>
-		<p>
-			<span>Kolehiyo:</span>
-			<span>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus, quasi, pariatur, molestiae aliquid ad sapiente aspernatur natus ab tempore at cum sit culpa suscipit sequi placeat dolor? Tempore, et assumenda.</span>
-		</p>
-		<p>
-			<span>Graduate Studies:</span>
-			<span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas ea tenetur, provident voluptates in nulla iure labore quam consequatur incidunt ex molestias minus officia sed alias! Nostrum maxime facilis mollitia?</span>
-		</p>
-	</div>
-</div>
 
 <div class="section white">
 	<div class="diagonal-divider-top">
-		<img src="assets/images/divider-blue-0.png" >
+		<img src="{{ asset('/public/assets/images/divider-grey-0.png') }}" >
 	</div>
 	<div class="top-pad">&nbsp;</div>
 </div>

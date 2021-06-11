@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en-ph"><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <meta charset="utf-8">
@@ -11,11 +11,7 @@
 <meta property="og:description" content="" />
 <title>@yield('title')</title>
 
-<<<<<<< HEAD
-<meta name="keywords" content="Surigaonon Para sa Surigao, Gov. Ayek T. Pimentel, Cong. Johnny T. Pimentel, Vj Pimentel,  Philip Pichay, Mary Grace S. Kimura, Jane V. Plaza, Marvin T. Azarcon, Dennis Yu, Roxanne Pimentel, Henrich Pimentel, Poly Lozada, Glenn Batiansila, Dodoy Fazon, Nicolas Alameda, Kid Pedrozo, oey Pama, Shem Garay, Enciong Garay, Boyet Evangelio, Michael T. Corilla, Generoso L. Naraiso">
-=======
 <meta name="keywords" content="Surigaonon Para sa Surigao, Gov. Ayek T. Pimentel, Cong. Johnny T. Pimentel, Vj Pimentel,  Philip Pichay, Mary Grace S. Kimura, Jane V. Plaza, Marvin T. Azarcon, Dennis Yu, Roxanne Pimentel, Henrich Pimentel, Poly Lozada, Glenn Batiansila, Dodoy Fazon, Nicolas Alameda, Kid Pedrozo, Joey Pama, Shem Garay, Enciong Garay, Boyet Evangelio, Michael T. Corilla, Generoso L. Naraiso">
->>>>>>> 8e70632fb07759d49bd241310954062ed90fde75
 <meta name="title" content="Surigaonon Para sa Surigao" />
 <meta name="description" content="Surigaonon Para sa Surigao" />
 
@@ -34,29 +30,16 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-<<<<<<< HEAD
-                <img src="{{ asset('/public/assets/images/1.jpg') }}" alt="">
+                <img src="{{ asset('/public/assets/images/header1.jpg') }}" alt="">
             </div>
             <div class="carousel-item">
-                <a href="#" target="_blank"><img src="{{ asset('/public/assets/images/2.jpg') }}" alt=""></a>
+                <img src="{{ asset('/public/assets/images/2.jpg') }}" alt="">
             </div>
             <div class="carousel-item">
-                <img src="{{ asset('/public/assets/images/3.jpg')  }}" alt="">
+                <img src="{{ asset('/public/assets/images/3.jpg') }}" alt="">
             </div>
             <div class="carousel-item">
                 <img src="{{ asset('/public/assets/images/4.jpg') }}" alt="">
-=======
-                <img src="{{ asset('assets/images/1.jpg') }}" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="{{ asset('assets/images/2.jpg') }}" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="{{ asset('assets/images/3.jpg') }}" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="{{ asset('assets/images/4.jpg') }}" alt="">
->>>>>>> 8e70632fb07759d49bd241310954062ed90fde75
             </div>
         </div>
     </div>
@@ -69,52 +52,28 @@
             <div><a href="#" class="sublevel2" data-target="kilalanin">KILALANIN</a>
                 <div class="subnav2" id="kilalanin">
                     <p>
-<<<<<<< HEAD
-                        <a href="">Ayek T. Pimentel</a>
-                        <a href="">Johnny T. Pimentel</a>
-                        <a href="">Vj Pimentel</a>
-                        <a href="">Philip Pichay</a>
-                        <a href="">Mary Grace S. Kimura</a>
-                        <a href="">Jane V. Plaza</a>
-                        <a href="">Marvin T. Azarcon</a>
-                        <a href="">Dennis Yu</a>
-                        <a href="">Roxanne Pimentel</a>
-                        <a href="">Henrich Pimentel</a>
-                        <a href="">Poly Lozada</a>
-                        <a href="">Glenn Batiansila</a>
-                        <a href="">Dodoy Fazon</a>
-                        <a href="">Nicolas Alameda</a>
-                        <a href="">Kid Pedrozo</a>
-                        <a href="">Joey Pama</a>
-                        <a href="">Shem Garay</a>
-                        <a href="">Enciong Garay</a>
-                        <a href="">Boyet Evangelio</a>
-                        <a href="">Michael T. Corilla</a>
-                        <a href="">Generoso L. Naraiso</a>
-=======
                         <a href="{{ url('/alexander-t-pimentel') }}">Ayek T. Pimentel</a>
                         <a href="{{ url('/romeo-s-momo') }}">Romeo S. Momo Sr.</a>
                         <a href="{{ url('/johnny-t-pimentel') }}">Johnny T. Pimentel</a>
-                        <a href="{{ url('') }}">Vj Pimentel</a>
-                        <a href="{{ url('') }}">Philip Pichay</a>
-                        <a href="{{ url('') }}">Mary Grace S. Kimura</a>
-                        <a href="{{ url('') }}">Jane V. Plaza</a>
-                        <a href="{{ url('') }}">Marvin T. Azarcon</a>
-                        <a href="{{ url('') }}">Dennis Yu</a>
-                        <a href="{{ url('') }}">Roxanne Pimentel</a>
-                        <a href="{{ url('') }}">Henrich Pimentel</a>
-                        <a href="{{ url('') }}">Poly Lozada</a>
-                        <a href="{{ url('') }}">Glenn Batiansila</a>
-                        <a href="{{ url('') }}">Dodoy Fazon</a>
-                        <a href="{{ url('') }}">Nicolas Alameda</a>
-                        <a href="{{ url('') }}">Kid Pedrozo</a>
-                        <a href="{{ url('') }}">Joey Pama</a>
-                        <a href="{{ url('') }}">Shem Garay</a>
-                        <a href="{{ url('') }}">Enciong Garay</a>
-                        <a href="{{ url('') }}">Boyet Evangelio</a>
-                        <a href="{{ url('') }}">Michael T. Corilla</a>
-                        <a href="{{ url('') }}">Generoso L. Naraiso</a>
->>>>>>> 8e70632fb07759d49bd241310954062ed90fde75
+                        <a href="{{ url('/vj-pimentel') }}">Vj Pimentel</a>
+                        <a href="{{ url('/philip-pichay') }}">Philip Pichay</a>
+                        <a href="{{ url('/mary-grace-kimura') }}">Mary Grace S. Kimura</a>
+                        <a href="{{ url('/jane-plaza') }}">Jane V. Plaza</a>
+                        <a href="{{ url('/marvin-azarcon') }}">Marvin T. Azarcon</a>
+                        <a href="{{ url('/dennis-yu') }}">Dennis Yu</a>
+                        <a href="{{ url('/roxanne-pimentel') }}">Roxanne Pimentel</a>
+                        <a href="{{ url('/henrich-pimentel') }}">Henrich Pimentel</a>
+                        <a href="{{ url('/poly-lozada') }}">Poly Lozada</a>
+                        <a href="{{ url('/glenn-batiansila') }}">Glenn Batiansila</a>
+                        <a href="{{ url('/dodoy-fazon') }}">Dodoy Fazon</a>
+                        <a href="{{ url('/nicolas-alameda') }}">Nicolas Alameda</a>
+                        <a href="{{ url('/kid-pedrozo') }}">Kid Pedrozo</a>
+                        <a href="{{ url('/joey-pama') }}">Joey Pama</a>
+                        <a href="{{ url('/shem-garay') }}">Shem Garay</a>
+                        <a href="{{ url('/enchiong-garay') }}">Enciong Garay</a>
+                        <a href="{{ url('/boyet-evangelio') }}">Boyet Evangelio</a>
+                        <a href="{{ url('/michael-corilla') }}">Michael T. Corilla</a>
+                        <a href="{{ url('/generoso-naraiso') }}">Generoso L. Naraiso</a>
                     </p>
                 </div>
             </div>
@@ -132,6 +91,10 @@
                 </div>
             </div>
             <div><a href="">PLATAPORMA</a></div>
+            <div class="nav-hidden-lg"><a href="https://www.facebook.com/hugpongsurigao" class="icon"><i class="fa fa-facebook" aria-hidden="true"></i></a> <a href="https://twitter.com/OtsoDiretso" class="icon"><i class="fa fa-twitter" aria-hidden="true"></i></a> <a href="https://www.instagram.com/OtsoDiretso.PH" class="icon"><i class="fa fa-instagram" aria-hidden="true"></i></a></div>
+		<div class="nav-hidden-xs"><a href="https://www.facebook.com/hugpongsurigao" class="icon"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+		<div class="nav-hidden-xs"><a href="" class="icon"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+		<div class="nav-hidden-xs"><a href="" class="icon"><i class="fa fa-instagram" aria-hidden="true"></i></a></div>
             <div class="clear"></div>
         </div>
         {{-- <div class="subnav" id="kumilos-nav">
@@ -146,22 +109,11 @@
         </div> --}}
     </div>
 
-
-
     @yield('content')
 
-
-
-
-
-    <div class="section white footer-kumilos">
-        <div class="" id="">
-                <div class="desc">
-                </div>
-                <div class="clear"></div>
-        </div>
+    <div class="section footer-kumilos">
         <div class="diagonal-divider-bottom">
-            <img src="assets/images/divider_white_blue.png" >
+            <img src="{{ asset('/public/assets/images/divider_white_blue.png') }}" >
         </div>
     </div>
     <div class="section blue">

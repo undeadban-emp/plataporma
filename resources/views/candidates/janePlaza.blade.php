@@ -1,12 +1,12 @@
 @extends('layouts.app')
-@section('title', 'Johnny T. Pimentel')
+@section('title', 'Jane V. Plaza')
 @prepend('page-css')
 {{-- CSS HERE --}}
 @endprepend
 @section('content')
 <div class="section candidate-holder">
 	<div class="candidate">
-		<img src="{{ asset('/public/assets/images/johnny-plataporma-solo.png') }}" alt="" title="">
+		<img src="{{ asset('/public/assets/images/ayek-plataporma-solo.png') }}" alt="" title="">
 	</div>
 </div>
 
@@ -47,13 +47,13 @@
 	<div class="carousel slide" data-ride="carousel" id="group1">
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img src="{{ asset('/public/assets/images/johnny-plataporma.jpg') }}">
+				<img src="{{ asset('/public/assets/images/ayek-plataporma.jpg') }}">
 			</div>
 			<div class="carousel-item">
-				<img src="{{ asset('/public/assets/images/johnny-plataporma2.jpg') }}">
+				<img src="{{ asset('/public/assets/images/ayek-plataporma2.jpg') }}">
 			</div>
 			<div class="carousel-item">
-				<img src="{{ asset('/public/assets/images/johnny-plataporma3.jpg') }}">
+				<img src="{{ asset('/public/assets/images/ayek-plataporma3.jpg') }}">
 			</div>
 		</div>
 	</div>
