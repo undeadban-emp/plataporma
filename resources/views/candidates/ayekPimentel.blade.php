@@ -79,28 +79,11 @@
 		<div class="clear"></div>
 	</div>
 </div>
-<div class="section blue candidate-description">
-	<div class="diagonal-divider-top">
-		<img src="assets/images/divider-grey-0.png" >
-	</div>
-	<div class="top-pad5">&nbsp;</div>
-	<div class="resume">
-		<p>&nbsp;</p>
-		<h1 class="fwhite">EDUKASYON</h1>
-		<p>
-			<span>Kolehiyo:</span>
-			<span>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus, quasi, pariatur, molestiae aliquid ad sapiente aspernatur natus ab tempore at cum sit culpa suscipit sequi placeat dolor? Tempore, et assumenda.</span>
-		</p>
-		<p>
-			<span>Graduate Studies:</span>
-			<span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas ea tenetur, provident voluptates in nulla iure labore quam consequatur incidunt ex molestias minus officia sed alias! Nostrum maxime facilis mollitia?</span>
-		</p>
-	</div>
-</div>
+
 
 <div class="section white">
 	<div class="diagonal-divider-top">
-		<img src="assets/images/divider-blue-0.png" >
+		<img src="assets/images/divider-grey-0.png" >
 	</div>
 	<div class="top-pad">&nbsp;</div>
 </div>

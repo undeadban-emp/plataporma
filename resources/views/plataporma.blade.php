@@ -1,6 +1,6 @@
 
 @extends('layouts.app')
-@section('title', 'Surigao Para sa Surigaonon!')
+@section('title', 'Plataporma')
 @prepend('page-css')
 {{-- CSS HERE --}}
 @endprepend

@@ -30,16 +30,16 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="{{ asset('assets/images/1.jpg') }}" alt="">
+                <img src="{{ asset('/assets/images/header1.jpg') }}" alt="">
             </div>
             <div class="carousel-item">
-                <img src="{{ asset('assets/images/2.jpg') }}" alt="">
+                <img src="{{ asset('/assets/images/2.jpg') }}" alt="">
             </div>
             <div class="carousel-item">
-                <img src="{{ asset('assets/images/3.jpg') }}" alt="">
+                <img src="{{ asset('/assets/images/3.jpg') }}" alt="">
             </div>
             <div class="carousel-item">
-                <img src="{{ asset('assets/images/4.jpg') }}" alt="">
+                <img src="{{ asset('/assets/images/4.jpg') }}" alt="">
             </div>
         </div>
     </div>
@@ -55,7 +55,7 @@
                         <a href="{{ url('/alexander-t-pimentel') }}">Ayek T. Pimentel</a>
                         <a href="{{ url('/romeo-s-momo') }}">Romeo S. Momo Sr.</a>
                         <a href="{{ url('/johnny-t-pimentel') }}">Johnny T. Pimentel</a>
-                        <a href="{{ url('/vj-pimente') }}">Vj Pimentel</a>
+                        <a href="{{ url('/vj-pimentel') }}">Vj Pimentel</a>
                         <a href="{{ url('/philip-pichay') }}">Philip Pichay</a>
                         <a href="{{ url('/mary-grace-kimura') }}">Mary Grace S. Kimura</a>
                         <a href="{{ url('/jane-plaza') }}">Jane V. Plaza</a>
@@ -69,11 +69,11 @@
                         <a href="{{ url('/nicolas-alameda') }}">Nicolas Alameda</a>
                         <a href="{{ url('/kid-pedrozo') }}">Kid Pedrozo</a>
                         <a href="{{ url('/joey-pama') }}">Joey Pama</a>
-                        <a href="{{ url('/shem-gray') }}">Shem Garay</a>
+                        <a href="{{ url('/shem-garay') }}">Shem Garay</a>
                         <a href="{{ url('/enchiong-garay') }}">Enciong Garay</a>
                         <a href="{{ url('/boyet-evangelio') }}">Boyet Evangelio</a>
                         <a href="{{ url('/michael-corilla') }}">Michael T. Corilla</a>
-                        <a href="{{ url('/generoso-narais') }}">Generoso L. Naraiso</a>
+                        <a href="{{ url('/generoso-naraiso') }}">Generoso L. Naraiso</a>
                     </p>
                 </div>
             </div>
@@ -91,6 +91,10 @@
                 </div>
             </div>
             <div><a href="">PLATAPORMA</a></div>
+            <div class="nav-hidden-lg"><a href="https://www.facebook.com/hugpongsurigao" class="icon"><i class="fa fa-facebook" aria-hidden="true"></i></a> <a href="https://twitter.com/OtsoDiretso" class="icon"><i class="fa fa-twitter" aria-hidden="true"></i></a> <a href="https://www.instagram.com/OtsoDiretso.PH" class="icon"><i class="fa fa-instagram" aria-hidden="true"></i></a></div>
+		<div class="nav-hidden-xs"><a href="https://www.facebook.com/hugpongsurigao" class="icon"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
+		<div class="nav-hidden-xs"><a href="" class="icon"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+		<div class="nav-hidden-xs"><a href="" class="icon"><i class="fa fa-instagram" aria-hidden="true"></i></a></div>
             <div class="clear"></div>
         </div>
         {{-- <div class="subnav" id="kumilos-nav">
@@ -105,22 +109,11 @@
         </div> --}}
     </div>
 
-
-
     @yield('content')
 
-
-
-
-
-    <div class="section white footer-kumilos">
-        <div class="" id="">
-                <div class="desc">
-                </div>
-                <div class="clear"></div>
-        </div>
+    <div class="section footer-kumilos">
         <div class="diagonal-divider-bottom">
-            <img src="assets/images/divider_white_blue.png" >
+            <img src="{{ asset('/assets/images/divider_white_blue.png') }}" >
         </div>
     </div>
     <div class="section blue">
