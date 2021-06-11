@@ -55,25 +55,25 @@
                         <a href="{{ url('/alexander-t-pimentel') }}">Ayek T. Pimentel</a>
                         <a href="{{ url('/romeo-s-momo') }}">Romeo S. Momo Sr.</a>
                         <a href="{{ url('/johnny-t-pimentel') }}">Johnny T. Pimentel</a>
-                        <a href="{{ url('') }}">Vj Pimentel</a>
-                        <a href="{{ url('') }}">Philip Pichay</a>
-                        <a href="{{ url('') }}">Mary Grace S. Kimura</a>
-                        <a href="{{ url('') }}">Jane V. Plaza</a>
-                        <a href="{{ url('') }}">Marvin T. Azarcon</a>
-                        <a href="{{ url('') }}">Dennis Yu</a>
-                        <a href="{{ url('') }}">Roxanne Pimentel</a>
-                        <a href="{{ url('') }}">Henrich Pimentel</a>
-                        <a href="{{ url('') }}">Poly Lozada</a>
-                        <a href="{{ url('') }}">Glenn Batiansila</a>
-                        <a href="{{ url('') }}">Dodoy Fazon</a>
-                        <a href="{{ url('') }}">Nicolas Alameda</a>
-                        <a href="{{ url('') }}">Kid Pedrozo</a>
-                        <a href="{{ url('') }}">Joey Pama</a>
-                        <a href="{{ url('') }}">Shem Garay</a>
-                        <a href="{{ url('') }}">Enciong Garay</a>
-                        <a href="{{ url('') }}">Boyet Evangelio</a>
-                        <a href="{{ url('') }}">Michael T. Corilla</a>
-                        <a href="{{ url('') }}">Generoso L. Naraiso</a>
+                        <a href="{{ url('/vj-pimente') }}">Vj Pimentel</a>
+                        <a href="{{ url('/philip-pichay') }}">Philip Pichay</a>
+                        <a href="{{ url('/mary-grace-kimura') }}">Mary Grace S. Kimura</a>
+                        <a href="{{ url('/jane-plaza') }}">Jane V. Plaza</a>
+                        <a href="{{ url('/marvin-azarcon') }}">Marvin T. Azarcon</a>
+                        <a href="{{ url('/dennis-yu') }}">Dennis Yu</a>
+                        <a href="{{ url('/roxanne-pimentel') }}">Roxanne Pimentel</a>
+                        <a href="{{ url('/henrich-pimentel') }}">Henrich Pimentel</a>
+                        <a href="{{ url('/poly-lozada') }}">Poly Lozada</a>
+                        <a href="{{ url('/glenn-batiansila') }}">Glenn Batiansila</a>
+                        <a href="{{ url('/dodoy-fazon') }}">Dodoy Fazon</a>
+                        <a href="{{ url('/nicolas-alameda') }}">Nicolas Alameda</a>
+                        <a href="{{ url('/kid-pedrozo') }}">Kid Pedrozo</a>
+                        <a href="{{ url('/joey-pama') }}">Joey Pama</a>
+                        <a href="{{ url('/shem-gray') }}">Shem Garay</a>
+                        <a href="{{ url('/enchiong-garay') }}">Enciong Garay</a>
+                        <a href="{{ url('/boyet-evangelio') }}">Boyet Evangelio</a>
+                        <a href="{{ url('/michael-corilla') }}">Michael T. Corilla</a>
+                        <a href="{{ url('/generoso-narais') }}">Generoso L. Naraiso</a>
                     </p>
                 </div>
             </div>
