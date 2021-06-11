@@ -40,4 +40,4 @@ Route::resource('/shem-garay', 'shemGarayController');
 Route::resource('/enchiong-garay', 'enchiongGarayController');
 Route::resource('/boyet-evangelio', 'boyetEvangelioController');
 Route::resource('/michael-corilla', 'michaelCorillaController');
-Route::resource('/generoso-naraiso', 'generosoNaraisoController');
+Route::resource('/evelyn-naraiso', 'evelynNaraisoController');

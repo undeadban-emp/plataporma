@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Generoso L. Naraiso')
+@section('title', 'Evelyn Naraiso')
 @prepend('page-css')
 {{-- CSS HERE --}}
 @endprepend
