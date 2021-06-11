@@ -30,10 +30,10 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="{{ asset('/assets/images/header1.jpg') }}" alt="">
+                <img src="{{ asset('/assets/images/header2.jpg') }}" alt="">
             </div>
             <div class="carousel-item">
-                <img src="{{ asset('/assets/images/2.jpg') }}" alt="">
+                <img src="{{ asset('/assets/images/header1.jpg') }}" alt="">
             </div>
             <div class="carousel-item">
                 <img src="{{ asset('/assets/images/3.jpg') }}" alt="">
@@ -90,7 +90,7 @@
                     </p>
                 </div>
             </div>
-            <div><a href="">PLATAPORMA</a></div>
+            <div><a href="{{ url('/plataporma') }}">PLATAPORMA</a></div>
             <div class="nav-hidden-lg"><a href="https://www.facebook.com/hugpongsurigao" class="icon"><i class="fa fa-facebook" aria-hidden="true"></i></a> <a href="https://twitter.com/OtsoDiretso" class="icon"><i class="fa fa-twitter" aria-hidden="true"></i></a> <a href="https://www.instagram.com/OtsoDiretso.PH" class="icon"><i class="fa fa-instagram" aria-hidden="true"></i></a></div>
 		<div class="nav-hidden-xs"><a href="https://www.facebook.com/hugpongsurigao" class="icon"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
 		<div class="nav-hidden-xs"><a href="" class="icon"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>

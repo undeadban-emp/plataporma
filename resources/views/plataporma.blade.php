@@ -39,11 +39,58 @@
 	<div class="bot-pad">&nbsp;</div>
 </div>
 
+<div class="section white">
+	<div class="diagonal-divider-bottom">
+		<img src="assets/images/divider-0-grey.png" >
+	</div>
+</div>
+
+<!--Platform 1 -->
+<div class="section grey">
+	<div class="platform">
+		<h1 class="fgrey">sample plataporma</h1>
+		<p class="ico"><img src="assets/images/ico_1_house.png"></p>
+		<ul>
+			<li><p>&bull; Pagsasabatas ng Pantawid Pamilyang Pilipino Program (4Ps)</p></li>
+			<li><p>&bull; On-site, in-city na relokasyon at pabahay</p></li>
+			<li><p>&bull; Pagtanggal sa pabigat na requirement sa trabaho, gaya ng NBI clearance</p></li>
+			<li><p>&bull; Dagdag pondo para sa mga mahihirap na lalawigan, siyudad, at munisipyo</p></li>
+			<li><p>&bull; Siguruhing malawak at maayos na pag-enrol sa SSS, PhilHealth, at PAGIBIG</p></li>
+		</ul>
+	</div>
+</div>
+<div class="section grey">
+	<div class="diagonal-divider-top">
+		<img src="assets/images/divider-grey-0.png" >
+	</div>
+</div>
+
+<!--Platform 2 -->
+<div class="section blue">
+	<div class="platform">
+		<div class="top-pad">&nbsp;</div>
+		<h1 class="fwhite">sample plataporma</h1>
+		<p class="ico"><img src="assets/images/ico_2_basket.png"></p>
+		<ul>
+			<li><p style="color:white;">&bull; Pagsulong at pag-unlad ng bansang Pilipinas</p></li>
+			<li><p style="color:white;">&bull; Pautang at training sa mga maliliit na negosyong Pilipino</p></li>
+			<li><p style="color:white;">&bull; Mabilis, madali, walang kotong sa pagkuha ng mga permit para sa negosyo</p></li>
+			<li><p style="color:white;">&bull; Pagtanggal sa dagdag na buwis sa langis</p></li>
+		</ul>
+		<div class="bot-pad">&nbsp;</div>
+	</div>
+</div>
+<div class="section white">
+	<div class="diagonal-divider-bottom">
+		<img src="assets/images/divider-0-white.png" >
+	</div>
+</div>
 
 
 
 
-<br><br><br><br><br><br><br>
+
+<br><br><br><br>
 <div class="section makinig">
     <div class="diagonal-divider-top">
         <h1 class="">Surigao Para sa Surigaonon!</h1>
