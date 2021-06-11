@@ -30,13 +30,13 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
+                <img src="{{ asset('/public/assets/images/header2.jpg') }}" alt="">
+            </div>
+            <div class="carousel-item">
                 <img src="{{ asset('/public/assets/images/header1.jpg') }}" alt="">
             </div>
             <div class="carousel-item">
-                <img src="{{ asset('/public/assets/images/2.jpg') }}" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="{{ asset('/public/assets/images/3.jpg') }}" alt="">
+                <img src="{{ asset('/public/assets/images/header3.jpg') }}" alt="">
             </div>
             <div class="carousel-item">
                 <img src="{{ asset('/public/assets/images/4.jpg') }}" alt="">
@@ -63,6 +63,7 @@
                         <a href="{{ url('/dennis-yu') }}">Dennis Yu</a>
                         <a href="{{ url('/roxanne-pimentel') }}">Roxanne Pimentel</a>
                         <a href="{{ url('/henrich-pimentel') }}">Henrich Pimentel</a>
+                        <a href="{{ url('/michael-corilla') }}">Michael T. Corilla</a>
                         <a href="{{ url('/poly-lozada') }}">Poly Lozada</a>
                         <a href="{{ url('/glenn-batiansila') }}">Glenn Batiansila</a>
                         <a href="{{ url('/dodoy-fazon') }}">Dodoy Fazon</a>
@@ -72,8 +73,7 @@
                         <a href="{{ url('/shem-garay') }}">Shem Garay</a>
                         <a href="{{ url('/enchiong-garay') }}">Enciong Garay</a>
                         <a href="{{ url('/boyet-evangelio') }}">Boyet Evangelio</a>
-                        <a href="{{ url('/michael-corilla') }}">Michael T. Corilla</a>
-                        <a href="{{ url('/generoso-naraiso') }}">Generoso L. Naraiso</a>
+                        <a href="{{ url('/evelyn-naraiso') }}">Evelyn Naraiso</a>
                     </p>
                 </div>
             </div>
@@ -90,7 +90,7 @@
                     </p>
                 </div>
             </div>
-            <div><a href="">PLATAPORMA</a></div>
+            <div><a href="{{ url('/plataporma') }}">PLATAPORMA</a></div>
             <div class="nav-hidden-lg"><a href="https://www.facebook.com/hugpongsurigao" class="icon"><i class="fa fa-facebook" aria-hidden="true"></i></a> <a href="https://twitter.com/OtsoDiretso" class="icon"><i class="fa fa-twitter" aria-hidden="true"></i></a> <a href="https://www.instagram.com/OtsoDiretso.PH" class="icon"><i class="fa fa-instagram" aria-hidden="true"></i></a></div>
 		<div class="nav-hidden-xs"><a href="https://www.facebook.com/hugpongsurigao" class="icon"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
 		<div class="nav-hidden-xs"><a href="" class="icon"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>

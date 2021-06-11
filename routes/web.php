@@ -16,6 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+Route::resource('/plataporma', 'platapormaController');
 
 Route::resource('/alexander-t-pimentel', 'alexanderController');
 Route::resource('/romeo-s-momo', 'RomeoMomoController');
@@ -39,4 +40,4 @@ Route::resource('/shem-garay', 'shemGarayController');
 Route::resource('/enchiong-garay', 'enchiongGarayController');
 Route::resource('/boyet-evangelio', 'boyetEvangelioController');
 Route::resource('/michael-corilla', 'michaelCorillaController');
-Route::resource('/generoso-naraiso', 'generosoNaraisoController');
+Route::resource('/evelyn-naraiso', 'evelynNaraisoController');
