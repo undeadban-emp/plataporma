@@ -20,33 +20,33 @@
     <div class="candidate w-224 m-negmargin-5"><a href="{{ url('/johnny-t-pimentel') }}"><img src="{{ asset('/assets/images/johnny.png') }}" alt="Johnny T. Pimentel" title="Johnny T. Pimentel"></a></div>
 
     <div class="clear"></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/vj-pimentel') }}"><img src="{{ asset('/assets/images/sample1.png') }}" alt="Vj Pimentel" title="Vj Pimentel"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/philip-pichay') }}"><img src="{{ asset('/assets/images/sample2.png') }}" alt="Philip Pichay" title="Philip Pichay"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/mary-grace-kimura') }}"><img src="{{ asset('/assets/images/sample3.png') }}" alt="Mary Grace S. Kimura" title="Mary Grace S. Kimura"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/vj-pimentel') }}"><img src="{{ asset('/assets/images/vjpimentel.png') }}" alt="Vj Pimentel" title="Vj Pimentel"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/philip-pichay') }}"><img src="{{ asset('/assets/images/philippichay.png') }}" alt="Philip Pichay" title="Philip Pichay"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/mary-grace-kimura') }}"><img src="{{ asset('/assets/images/marygracekimura.png') }}" alt="Mary Grace S. Kimura" title="Mary Grace S. Kimura"></a></div>
 
     <div class="clear"></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/jane-plaza') }}"><img src="{{ asset('/assets/images/sample1.png') }}" alt="Jane V. Plaza" title="Jane V. Plaza"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/marvin-azarcon') }}"><img src="{{ asset('/assets/images/sample2.png') }}" alt="Marvin T. Azarcon" title="Marvin T. Azarcon"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/dennis-yu') }}"><img src="{{ asset('/assets/images/sample3.png') }}" alt="Dennis Yu" title="Dennis Yu"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/roxanne-pimentel') }}"><img src="{{ asset('/assets/images/sample4.png') }}" alt="Roxanne Pimentel" title="Roxanne Pimentel"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/jane-plaza') }}"><img src="{{ asset('/assets/images/janeplaza.png') }}" alt="Jane V. Plaza" title="Jane V. Plaza"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/marvin-azarcon') }}"><img src="{{ asset('/assets/images/marvinazarcon.png') }}" alt="Marvin T. Azarcon" title="Marvin T. Azarcon"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/dennis-yu') }}"><img src="{{ asset('/assets/images/dennisyu.png') }}" alt="Dennis Yu" title="Dennis Yu"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/roxanne-pimentel') }}"><img src="{{ asset('/assets/images/roxannepimentel.png') }}" alt="Roxanne Pimentel" title="Roxanne Pimentel"></a></div>
 
     <div class="clear"></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/henrich-pimentel') }}"><img src="{{ asset('/assets/images/sample1.png') }}" alt="Henrich Pimentel" title="Henrich Pimentel"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/poly-lozada') }}"><img src="{{ asset('/assets/images/sample2.png') }}" alt="Poly Lozada" title="Poly Lozada"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/glenn-batiansila') }}"><img src="{{ asset('/assets/images/sample3.png') }}" alt="Glenn Batiansila" title="Glenn Batiansila"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/dodoy-fazon') }}"><img src="{{ asset('/assets/images/sample4.png') }}" alt="Dodoy Fazon" title="Dodoy Fazon"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/henrich-pimentel') }}"><img src="{{ asset('/assets/images/henrichpimentel.png') }}" alt="Henrich Pimentel" title="Henrich Pimentel"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/poly-lozada') }}"><img src="{{ asset('/assets/images/polylozada.png') }}" alt="Poly Lozada" title="Poly Lozada"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/glenn-batiansila') }}"><img src="{{ asset('/assets/images/glennbatiansila.png') }}" alt="Glenn Batiansila" title="Glenn Batiansila"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/dodoy-fazon') }}"><img src="{{ asset('/assets/images/dodoyfazon.png') }}" alt="Dodoy Fazon" title="Dodoy Fazon"></a></div>
 
     <div class="clear"></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/nicolas-alameda') }}"><img src="{{ asset('/assets/images/sample1.png') }}" alt="Nicolas Alameda" title="Nicolas Alameda"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/kid-pedrozo') }}"><img src="{{ asset('/assets/images/sample2.png') }}" alt="Kid Pedrozo" title="Kid Pedrozo"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/joey-pama') }}"><img src="{{ asset('/assets/images/sample3.png') }}" alt="Joey Pama" title="Joey Pama"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/shem-gray') }}"><img src="{{ asset('/assets/images/sample4.png') }}" alt="Shem Garay" title="Shem Garay"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/nicolas-alameda') }}"><img src="{{ asset('/assets/images/nicolasalameda.png') }}" alt="Nicolas Alameda" title="Nicolas Alameda"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/kid-pedrozo') }}"><img src="{{ asset('/assets/images/kidpedrozo.png') }}" alt="Kid Pedrozo" title="Kid Pedrozo"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/joey-pama') }}"><img src="{{ asset('/assets/images/joeypama.png') }}" alt="Joey Pama" title="Joey Pama"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/shem-gray') }}"><img src="{{ asset('/assets/images/shemgaray.png') }}" alt="Shem Garay" title="Shem Garay"></a></div>
 
     <div class="clear"></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/enchiong-garay') }}"><img src="{{ asset('/assets/images/sample1.png') }}" alt="Enciong Garay" title="Enciong Garay"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/boyet-evangelio') }}"><img src="{{ asset('/assets/images/sample2.png') }}" alt="Boyet Evangelio" title="Boyet Evangelio"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/michael-corilla') }}"><img src="{{ asset('/assets/images/sample3.png') }}" alt="Michael T. Corilla" title="Michael T. Corilla"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/generoso-naraiso') }}"><img src="{{ asset('/assets/images/sample4.png') }}" alt="Generoso L. Naraiso" title="Generoso L. Naraiso"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/enchiong-garay') }}"><img src="{{ asset('/assets/images/enchionggaray.png') }}" alt="Enciong Garay" title="Enciong Garay"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/boyet-evangelio') }}"><img src="{{ asset('/assets/images/boyetevangelio.png') }}" alt="Boyet Evangelio" title="Boyet Evangelio"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/michael-corilla') }}"><img src="{{ asset('/assets/images/michaelcorilla.png') }}" alt="Michael T. Corilla" title="Michael T. Corilla"></a></div>
+    <div class="candidate w-224 negmargin-5"><a href="{{ url('/evelyn-naraiso') }}"><img src="{{ asset('/assets/images/evelynnaraiso.png') }}" alt="Evelyn Naraiso" title="Evelyn Naraiso"></a></div>
     <div class="clear"></div>
     </div>
 
