@@ -15,6 +15,7 @@
     <div class="clear"></div>
     </div>
     </div>
+<<<<<<< HEAD
     <div class="clear"></div>
     <div class="candidate w-225 m-negmargin-5"><a href="{{ url('/romeo-s-momo') }}"><img src="{{ asset('/public/assets/images/momo.png') }}" alt="Romeo S. Momo" title="Romeo S. Momo"></a></div>
     <div class="candidate w-224 m-negmargin-5"><a href="{{ url('/johnny-t-pimentel') }}"><img src="{{ asset('/public/assets/images/johnny.png') }}" alt="Johnny T. Pimentel" title="Johnny T. Pimentel"></a></div>
@@ -48,6 +49,55 @@
     <div class="candidate w-224 negmargin-5"><a href="{{ url('/michael-corilla') }}"><img src="{{ asset('/public/assets/images/sample3.png') }}" alt="Michael T. Corilla" title="Michael T. Corilla"></a></div>
     <div class="candidate w-224 negmargin-5"><a href="{{ url('/evelyn-naraiso') }}"><img src="{{ asset('/public/assets/images/sample4.png') }}" alt="Evelyn Naraiso" title="Evelyn Naraiso"></a></div>
     <div class="clear"></div>
+=======
+
+    <div class="row">
+        <div class="col-4">
+            <h1  style="padding-top:30px;" class="fgrey">1st District</h1>
+            <div class="candidate w-custom-size "><a href="{{ url('/romeo-s-momo') }}"><img src="{{ asset('/assets/images/momo.png') }}" alt="Romeo Momo" title="Romeo Momo"></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="clear"></div>
+        </div>
+        <div class="col-4">
+            <div style="padding-top:50px;" class="candidate-desc">
+                <h1 class="fgrey">Mission</h1>
+                <p class="text-justify">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi harum laboriosam vitae necessitatibus temporibus magni blanditiis, voluptate, quisquam error recusandae ab obcaecati placeat. Quas rerum iure ad enim recusandae nesciunt.</p>
+            </div>
+            <div class="candidate-desc">
+                <h1 class="fgrey">Vision</h1>
+                <p class="text-justify">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi harum laboriosam vitae necessitatibus temporibus magni blanditiis, voluptate, quisquam error recusandae ab obcaecati placeat. Quas rerum iure ad enim recusandae nesciunt.</p>
+            </div>
+            <div class="candidate-desc">
+                <h1 class="fgrey">Platform</h1>
+                <p class="text-justify">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi harum laboriosam vitae necessitatibus temporibus magni blanditiis, voluptate, quisquam error recusandae ab obcaecati placeat. Quas rerum iure ad enim recusandae nesciunt.</p>
+            </div>
+            </div>
+            <div class="col-4">
+                <h1 style="padding-top:30px;" class="fgrey">2nd District</h1>
+                <div class="candidate w-custom-size2"><a href="{{ url('/johnny-t-pimentel') }}"><img src="{{ asset('/assets/images/johnny.png') }}" alt="Johnny Pimentel" title="Johnny Pimentel"></a></div>
+                <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+                <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+                <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+                <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+                <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+                <div class="clear"></div>
+                </div>
+        </div>
+
+>>>>>>> da95ae00ad9c0f074b2334641a3eb413af05802a
     </div>
 
     <!-- Highlight -->
