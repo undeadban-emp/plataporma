@@ -325,7 +325,7 @@ nav.otso {
 
 .candidates {
     width: 90%;
-    max-width: 1024px;
+    max-width: 1524px;
     text-align: center;
     margin: 0 auto;
     position: relative;
@@ -351,17 +351,35 @@ nav.otso {
 .candidates .w-270 {
     width: 46%;
 }
+.candidates .w-custom {
+    width: 80%;
+}
 .candidates .w-325,
 .w-325 {
-    width: 32%;
+    width: 35%;
+}
+.w-custom-size {
+    width: 80%;
+}
+.w-custom-size1 {
+    width: 60%;
+}
+.w-custom-size2 {
+    width: 70%;
 }
 .candidates .w-224,
 .w-224 {
     width: 22%;
 }
+w-custom2 {
+    width: 70%;
+}
 .candidates .m-negmargin-5,
 .m-negmargin-5 {
     margin-top: 0;
+}
+.custom-padding {
+    margin-top: 100px;
 }
 .candidates .negmargin-5,
 .negmargin-5 {

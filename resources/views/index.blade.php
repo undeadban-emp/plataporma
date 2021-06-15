@@ -15,39 +15,53 @@
     <div class="clear"></div>
     </div>
     </div>
-    <div class="clear"></div>
-    <div class="candidate w-225 m-negmargin-5"><a href="{{ url('/romeo-s-momo') }}"><img src="{{ asset('/public/assets/images/momo.png') }}" alt="Romeo S. Momo" title="Romeo S. Momo"></a></div>
-    <div class="candidate w-224 m-negmargin-5"><a href="{{ url('/johnny-t-pimentel') }}"><img src="{{ asset('/public/assets/images/johnny.png') }}" alt="Johnny T. Pimentel" title="Johnny T. Pimentel"></a></div>
 
-    <div class="clear"></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/vj-pimentel') }}"><img src="{{ asset('/public/assets/images/vjpimentel.png') }}" alt="Vj Pimentel" title="Vj Pimentel"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/philip-pichay') }}"><img src="{{ asset('/public/assets/images/philippichay.png') }}" alt="Philip Pichay" title="Philip Pichay"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/mary-grace-kimura') }}"><img src="{{ asset('/public/assets/images/marygracekimura.png') }}" alt="Mary Grace S. Kimura" title="Mary Grace S. Kimura"></a></div>
+    <div class="row">
+        <div class="col-4">
+            <h1  style="padding-top:30px;" class="fgrey">1st District</h1>
+            <div class="candidate w-custom-size "><a href="{{ url('/romeo-s-momo') }}"><img src="{{ asset('/public/assets/images/momo.png') }}" alt="Romeo Momo" title="Romeo Momo"></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+            <div class="clear"></div>
+        </div>
+        <div class="col-4">
+            <div style="padding-top:50px;" class="candidate-desc">
+                <h1 class="fgrey">Mission</h1>
+                <p class="text-justify">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi harum laboriosam vitae necessitatibus temporibus magni blanditiis, voluptate, quisquam error recusandae ab obcaecati placeat. Quas rerum iure ad enim recusandae nesciunt.</p>
+            </div>
+            <div class="candidate-desc">
+                <h1 class="fgrey">Vision</h1>
+                <p class="text-justify">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi harum laboriosam vitae necessitatibus temporibus magni blanditiis, voluptate, quisquam error recusandae ab obcaecati placeat. Quas rerum iure ad enim recusandae nesciunt.</p>
+            </div>
+            <div class="candidate-desc">
+                <h1 class="fgrey">Platform</h1>
+                <p class="text-justify">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi harum laboriosam vitae necessitatibus temporibus magni blanditiis, voluptate, quisquam error recusandae ab obcaecati placeat. Quas rerum iure ad enim recusandae nesciunt.</p>
+            </div>
+            </div>
+            <div class="col-4">
+                <h1 style="padding-top:30px;" class="fgrey">2nd District</h1>
+                <div class="candidate w-custom-size2"><a href="{{ url('/johnny-t-pimentel') }}"><img src="{{ asset('/public/assets/images/johnny.png') }}" alt="Johnny Pimentel" title="Johnny Pimentel"></a></div>
+                <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+                <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+                <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+                <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+                <div class="candidate w-custom-size1 "><a href="{{ url('/') }}"><img src="{{ asset('/public/assets/images/custome-image.png') }}" alt="" title=""></a></div>
+                <div class="clear"></div>
+                </div>
+        </div>
 
-    <div class="clear"></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/jane-plaza') }}"><img src="{{ asset('/public/assets/images/janeplaza.png') }}" alt="Jane V. Plaza" title="Jane V. Plaza"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/marvin-azarcon') }}"><img src="{{ asset('/public/assets/images/marvinazarcon.png') }}" alt="Marvin T. Azarcon" title="Marvin T. Azarcon"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/dennis-yu') }}"><img src="{{ asset('/public/assets/images/dennisyu.png') }}" alt="Dennis Yu" title="Dennis Yu"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/roxanne-pimentel') }}"><img src="{{ asset('/public/assets/images/roxannepimentel.png') }}" alt="Roxanne Pimentel" title="Roxanne Pimentel"></a></div>
-
-    <div class="clear"></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/henrich-pimentel') }}"><img src="{{ asset('/public/assets/images/henrichpimentel.png') }}" alt="Henrich Pimentel" title="Henrich Pimentel"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/poly-lozada') }}"><img src="{{ asset('/public/assets/images/polylozada.png') }}" alt="Poly Lozada" title="Poly Lozada"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/glenn-batiansila') }}"><img src="{{ asset('/public/assets/images/glennbatiansila.png') }}" alt="Glenn Batiansila" title="Glenn Batiansila"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/dodoy-fazon') }}"><img src="{{ asset('/public/assets/images/dodoyfazon.png') }}" alt="Dodoy Fazon" title="Dodoy Fazon"></a></div>
-
-    <div class="clear"></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/nicolas-alameda') }}"><img src="{{ asset('/public/assets/images/nicolasalameda.png') }}" alt="Nicolas Alameda" title="Nicolas Alameda"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/kid-pedrozo') }}"><img src="{{ asset('/public/assets/images/kidpedrozo.png') }}" alt="Kid Pedrozo" title="Kid Pedrozo"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/joey-pama') }}"><img src="{{ asset('/public/assets/images/joeypama.png') }}" alt="Joey Pama" title="Joey Pama"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/shem-gray') }}"><img src="{{ asset('/public/assets/images/shemgaray.png') }}" alt="Shem Garay" title="Shem Garay"></a></div>
-
-    <div class="clear"></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/enchiong-garay') }}"><img src="{{ asset('/public/assets/images/enchionggaray.png') }}" alt="Enciong Garay" title="Enciong Garay"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/boyet-evangelio') }}"><img src="{{ asset('/public/assets/images/boyetevangelio.png') }}" alt="Boyet Evangelio" title="Boyet Evangelio"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/michael-corilla') }}"><img src="{{ asset('/public/assets/images/michaelcorilla.png') }}" alt="Michael T. Corilla" title="Michael T. Corilla"></a></div>
-    <div class="candidate w-224 negmargin-5"><a href="{{ url('/evelyn-naraiso') }}"><img src="{{ asset('/public/assets/images/evelynnaraiso.png') }}" alt="Evelyn Naraiso" title="Evelyn Naraiso"></a></div>
-    <div class="clear"></div>
     </div>
 
     <!-- Highlight -->

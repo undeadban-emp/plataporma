@@ -2,7 +2,7 @@
 <html lang="en-ph"><meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <meta charset="utf-8">
-<link rel="icon" type="image/png" href="{{ asset('assets/images/favicon.png') }}" />
+<link rel="icon" type="image/png" href="{{ asset('/public/assets/images/favicon.png') }}" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <meta property="og:title" content="Surigaonon Para sa Surigao"/>
 <meta property="og:type" content="website"/>
@@ -26,15 +26,15 @@
         <li data-target="#header-carousel" data-slide-to="0" class="active"></li>
         <li data-target="#header-carousel" data-slide-to="1"></li>
         <li data-target="#header-carousel" data-slide-to="2"></li>
-        <li data-target="#header-carousel" data-slide-to="3"></li>
+        {{-- <li data-target="#header-carousel" data-slide-to="3"></li> --}}
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="{{ asset('/public/assets/images/header2.jpg') }}" alt="">
             </div>
-            <div class="carousel-item">
-                <img src="{{ asset('/public/assets/images/header1.jpg') }}" alt="">
-            </div>
+            {{-- <div class="carousel-item">
+                <img src="{{ asset('/assets/images/header1.jpg') }}" alt="">
+            </div> --}}
             <div class="carousel-item">
                 <img src="{{ asset('/public/assets/images/header4.jpg') }}" alt="">
             </div>
@@ -90,7 +90,6 @@
                     </p>
                 </div>
             </div>
-            <div><a href="{{ url('/plataporma') }}">PLATAPORMA</a></div>
             <div class="nav-hidden-lg"><a href="https://www.facebook.com/hugpongsurigao" class="icon"><i class="fa fa-facebook" aria-hidden="true"></i></a> <a href="https://twitter.com/OtsoDiretso" class="icon"><i class="fa fa-twitter" aria-hidden="true"></i></a> <a href="https://www.instagram.com/OtsoDiretso.PH" class="icon"><i class="fa fa-instagram" aria-hidden="true"></i></a></div>
 		<div class="nav-hidden-xs"><a href="https://www.facebook.com/hugpongsurigao" class="icon"><i class="fa fa-facebook" aria-hidden="true"></i></a></div>
 		<div class="nav-hidden-xs"><a href="" class="icon"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
