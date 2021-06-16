@@ -6,11 +6,7 @@
 @section('content')
 <div class="section candidate-holder">
 	<div class="candidate">
-<<<<<<< HEAD
 		<img src="{{ asset('/public/assets/images/ayek-plataporma-solo.png') }}" alt="" title="">
-=======
-		<img src="{{ asset('assets/images/ayek-plataporma-solo2.png') }}" alt="" title="">
->>>>>>> 97cace30e7d20b2ec4ed920e34810891d44f8fa6
 	</div>
 </div>
 
