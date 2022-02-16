@@ -32,7 +32,7 @@
 .header {
     width: 100%;
     margin: 0 auto;
-    background: #d72c2b;
+    background: #336633;
 }
 .subheader {
     width: 100%;
@@ -61,7 +61,7 @@
 .m-nav a {
     font-size: 16px;
     color: #fff;
-    background: #d42a29;
+    background: #336633;
     border-radius: 50%;
     line-height: 28px;
     pointer-events: pointer;
@@ -91,7 +91,7 @@
 .toTop a {
     font-size: 24px;
     color: rgba(255, 255, 255, 0.8) !important;
-    background: rgb(0, 0, 255);
+    background: #346633;
     border-radius: 50%;
     cursor: pointer;
     line-height: 40px;
@@ -113,7 +113,7 @@
 }
 
 .nav {
-    background: #2b45d7;
+    background: #346633;
 }
 .nav p,
 .nav .nav-option {
@@ -157,7 +157,7 @@
 .nav p a.icon,
 .nav .nav-option a.icon {
     background: #fff;
-    color: #2b45d7;
+    color: #346633;
     width: 30px;
     height: 30px;
     display: inline-block;
@@ -320,7 +320,7 @@
 }
 
 nav.otso {
-    background: #d72c2b;
+    background: #336633;
 }
 
 .candidates {
@@ -330,6 +330,14 @@ nav.otso {
     margin: 0 auto;
     position: relative;
 }
+.candidates2 {
+    width: 80%;
+    max-width: 1524px;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+}
+
 .candidates .candidate img,
 .candidate img {
     width: 100%;
@@ -354,12 +362,18 @@ nav.otso {
 .candidates .w-custom {
     width: 80%;
 }
+.candidates .w-customsmall {
+    width: 20%;
+}
 .candidates .w-325,
 .w-325 {
     width: 35%;
 }
 .w-custom-size {
     width: 80%;
+}
+.w-customsmall {
+    width: 20%;
 }
 .w-custom-size1 {
     width: 60%;
@@ -392,7 +406,7 @@ w-custom2 {
     background-size: 100%;
 }
 .candidate-holder .candidate {
-    width: 80%;
+    width: 60%;
     max-width: 900px;
     margin: 0 auto;
     text-align: center;
@@ -400,7 +414,7 @@ w-custom2 {
     display: block;
 }
 .candidate-holder .candidate img {
-    width: 100%;
+    width: 60%;
     max-width: 650px;
     display: inline-block;
 }
@@ -1364,6 +1378,9 @@ w-custom2 {
 .blue {
     background: #22418d;
 }
+.green {
+    background: #346633;
+}
 .yellow {
     background: #ffcc05;
 }
@@ -1628,7 +1645,7 @@ h1 span {
         -webkit-transition: 0.5s;
         -moz-transition: 0.5s;
         transition: 0.5s;
-        background: rgba(211, 42, 39, 0.96);
+        background: rgba(51, 102, 51, 0.96);
     }
     .nav .nav-option {
         width: 100%;
