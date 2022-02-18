@@ -21,7 +21,6 @@
 <link href="{{ asset('/assets/css/ansiblebfda.css?v=04.23.2019.1836') }} " rel="stylesheet" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-{{-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> --}}
   @stack('page-css')
 </head>
 <body>

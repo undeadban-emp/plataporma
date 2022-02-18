@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Hugpong Surigao - Ayek Pimentel')
+@section('title', 'Hugpong Surigao - First District Accomplishent')
 @prepend('page-css')
 {{-- CSS HERE --}}
 @endprepend
@@ -12,10 +12,83 @@
 </div>
 
 <div class="section white candidate-description">
-	<div class="desc">
-		<p>Usa ka lider nga matinud-anon diha sa panerbisyo sa katawhan sa probinsya sa Surigao del Sur</p>
+	<div class="resume">
+        <h1 class="fgrey">BAYABAS</h1>
+        <h1 class="fgrey float-left">LIVELIHOOD </h1>
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col">Barangay</th>
+                <th scope="col">Name of Project</th>
+                <th scope="col">Amount</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>CABUGO</td>
+                <td>CABUGO AYEK LIVELIHOOD ASSOCIATION</td>
+                <td>Ᵽ500,000.00</td>
+            </tr>
+            <tr>
+                <td>LAPAZ</td>
+                <td>LAPAZ FARMERS AND FISHERFOLKS ASSOCIATION</td>
+                <td>Ᵽ500,000.00</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Total</td>
+                <td>Ᵽ1,000,000.00</td>
+            </tr>
+            </tbody>
+        </table>
+
+        <h1 class="fgrey float-left">BARANGAY STREETLIGHT AND WATER SYSTEM PROJECTS </h1>
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col">Barangay</th>
+                <th scope="col">Amount</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>MAGOBAWOK</td>
+                <td>Ᵽ100,000.00</td>
+            </tr>
+            <tr>
+                <td>CABUGO</td>
+                <td>Ᵽ100,000.00</td>
+            </tr>
+            <tr>
+                <td>CAGBAOTO</td>
+                <td>Ᵽ100,000.00</td>
+            </tr>
+            <tr>
+                <td>BALETE</td>
+                <td>Ᵽ100,000.00</td>
+            </tr>
+            <tr>
+                <td>LA PAZ</td>
+                <td>Ᵽ100,000.00</td>
+            </tr>
+            <tr>
+                <td>PANAOSAWON</td>
+                <td>Ᵽ100,000.00</td>
+            </tr>
+            <tr>
+                <td>AMAG</td>
+                <td>Ᵽ100,000.00</td>
+            </tr>
+            <tr>
+                <td>Total</td>
+                <td>Ᵽ1,000,000.00</td>
+            </tr>
+            </tbody>
+        </table>
 	</div>
 </div>
+
+
 
 
 <!-- Divider -->
@@ -186,11 +259,11 @@
 		<div class="clear"></div>
 	</div>
 </div>
-{{-- <div class="section makinig">
+<div class="section makinig">
     <div class="diagonal-divider-top">
-        <div class="big-btn-rev"><a href="{{ url('/first-district-accomplishment') }}">Accomplishments</a></div>
+        <div class="big-btn-rev"><a href="{{ url('/plataporma') }}">Accomplishments</a></div>
     </div>
-</div> --}}
+</div>
 <br><br><br><br><br>
 
 @push('page-scripts')
