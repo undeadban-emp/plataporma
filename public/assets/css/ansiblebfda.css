@@ -1316,8 +1316,8 @@ w-custom2 {
 .big-btn a:focus,
 .big-btn a:active {
     background: #fff;
-    color: #4e4e4e;
-    border: #4e4e4e 10px solid;
+    color: #346633;
+    border: #346633 10px solid;
 }
 
 .big-btn-rev {
@@ -1332,8 +1332,8 @@ w-custom2 {
     font-weight: 600;
     padding: 15px 50px;
     border-radius: 25px;
-    border: #4e4e4e 10px solid;
-    color: #4e4e4e;
+    border: #346633 10px solid;
+    color: #346633;
     display: inline-block;
     text-decoration: none;
     -webkit-transition: 0.5s;
@@ -1343,7 +1343,7 @@ w-custom2 {
 .big-btn-rev a:hover,
 .big-btn-rev a:focus,
 .big-btn-rev a:active {
-    background: #4e4e4e;
+    background: #346633;
     color: #fff;
     border: #fff 10px solid;
 }
