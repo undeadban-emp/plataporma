@@ -21,7 +21,7 @@
 <!-- Divider -->
 <div class="section white">
 	<div class="diagonal-divider-bottom inner-cand">
-		<img src="assets/images/divider-0-grey.png" >
+		<img src="{{ asset('assets/images/divider-0-grey.png') }}" >
 	</div>
     <div class="bot-pad">&nbsp;</div>
 </div>
@@ -71,7 +71,7 @@
 
 <div class="section white ">
 	<div class="diagonal-divider-top">
-		<img src="assets/images/divider-grey-0.png" >
+		<img src="{{ asset('assets/images/divider-grey-0.png') }}" >
 	</div>
 </div>
 

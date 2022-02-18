@@ -42,7 +42,7 @@
 <!--Platform 1 -->
 <div class="section grey">
 	<div class="diagonal-divider-top">
-		<img src="assets/images/divider-white-0.png" >
+		<img src="{{ asset('assets/images/divider-white-0.png') }}" >
 	</div>
 </div>
 <div class="section grey">
@@ -72,18 +72,18 @@
         <ul>
 			<li><p> Pakusgan ang katakos sa pagpangandam, pagresponde ug pagbangon gikan sa kadaut epekto sa kalamidad</p></li>
 		</ul>
-        <h2 class="fgrey font-weight-bold text-center font-italic">PAGPANGANDAM SA KALAMIDAD</h1>
+        <h3 class="fgrey font-weight-bold text-center font-italic">PAGPANGANDAM SA KALAMIDAD</h3>
 		<ul>
 			<li><p> Pagtukod ug mga istrukturang pangontra sa katalagman ug puy-anan sa mga panginabuhian nga mananap</p></li>
 			<li><p> Pagtukod ug mga “Balay Dalangpanan” sa tanan lungsod sa probinsya</p></li>
 		</ul>
-        <h2 class="fgrey font-weight-bold text-center font-italic">PANAHON SA KALAMIDAD</h1>
+        <h3 class="fgrey font-weight-bold text-center font-italic">PANAHON SA KALAMIDAD</h3>
             <ul>
                 <li><p> Hugot pakusgan ang mga pamaagi sa pagresponde sa mga kabarangayan</p></li>
                 <li><p> Paspas nga paghatod sa serbisyong hinabang</p></li>
                 <li><p> Palabihon ug hatod sa serbisyong hinabang ang mga katigulangan, kabataan, kababayen-an, adunay sakit ug walay nag-atiman</p></li>
             </ul>
-            <h2 class="fgrey font-weight-bold text-center font-italic">PAGBANGON GIKAN SA KALAMIDAD</h1>
+            <h3 class="fgrey font-weight-bold text-center font-italic">PAGBANGON GIKAN SA KALAMIDAD</h3>
                 <ul>
                     <li><p> Pakiglambigit sa relihiyosong grupo ug komunidad aron mabatonan ang paspas nga pagbangon sa mga <b>SURIGAONON</b> </p></li>
                 </ul>
@@ -92,7 +92,7 @@
 </div>
 <div class="section white">
 	<div class="diagonal-divider-bottom">
-		<img src="assets/images/divider-0-grey.png" >
+		<img src="{{ asset('assets/images/divider-0-grey.png') }}" >
 	</div>
 </div>
 
@@ -131,7 +131,7 @@
 </div>
 <div class="section white">
 	<div class="diagonal-divider-bottom">
-		<img src="assets/images/divider-0-grey.png" >
+		<img src="{{ asset('assets/images/divider-0-grey.png') }}" >
 	</div>
 </div>
 
@@ -170,7 +170,7 @@
 </div>
 <div class="section white">
 	<div class="diagonal-divider-bottom">
-		<img src="assets/images/divider-0-grey.png" >
+		<img src="{{ asset('assets/images/divider-0-grey.png') }}" >
 	</div>
 </div>
 
@@ -178,7 +178,7 @@
 
 <div class="section white">
 	<div class="diagonal-divider-bottom">
-		<img src="assets/images/divider-0-white.png" >
+		<img src="{{ asset('assets/images/divider-0-white.png') }}" >
 	</div>
 </div>
 
@@ -191,7 +191,10 @@
     <div class="diagonal-divider-top">
         <h1 class="">"Padayon Paglambo SURIGAO"</h1>
     </div>
+    <div class="bot-pad">&nbsp;</div>
 </div>
+
+
 
 @push('page-scripts')
 {{-- JS SCRIPTS HERE --}}
