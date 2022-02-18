@@ -19,6 +19,10 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
 <link href="{{ asset('/assets/css/font-awesome.min.css') }}" rel="stylesheet" />
 <link href="{{ asset('/assets/css/ansiblebfda.css?v=04.23.2019.1836') }} " rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+{{-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> --}}
+  @stack('page-css')
 </head>
 <body>
     <div class="header carousel slide" data-ride="carousel" id="header-carousel">
@@ -80,6 +84,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
 <script src="https://cdn.jsdelivr.net/bootstrap.native/1.0.4/bootstrap-native.js"></script>
 <script src="{{ asset('/assets/js/ansible9f92.js?v=03.07.2019.2149') }}"></script>
+@stack('page-scripts')
 
 </body>
 </html>

@@ -186,7 +186,12 @@
 		<div class="clear"></div>
 	</div>
 </div>
-<br><br><br>
+{{-- <div class="section makinig">
+    <div class="diagonal-divider-top">
+        <div class="big-btn-rev"><a href="{{ url('/plataporma') }}">Accomplishments</a></div>
+    </div>
+</div> --}}
+<br><br><br><br><br>
 
 @push('page-scripts')
 {{-- JS SCRIPTS HERE --}}
