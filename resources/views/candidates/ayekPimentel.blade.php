@@ -186,11 +186,18 @@
 		<div class="clear"></div>
 	</div>
 </div>
-{{-- <div class="section makinig">
+
+<div class="section makinig">
     <div class="diagonal-divider-top">
-        <div class="big-btn-rev"><a href="{{ url('/first-district-accomplishment') }}">Accomplishments</a></div>
+        <div class="big-btn-rev"><a href="{{ url('/first-district-accomplishment') }}">1<sup>st</sup> District Accomplishments</a></div>
     </div>
-</div> --}}
+</div>
+<br>
+<div class="section makinig">
+    <div class="diagonal-divider-top">
+        <div class="big-btn-rev"><a href="{{ url('/second-district-accomplishment') }}">2<sup>nd</sup> Distict Accomplishments</a></div>
+    </div>
+</div>
 <br><br><br><br><br>
 
 @push('page-scripts')

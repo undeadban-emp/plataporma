@@ -52,7 +52,7 @@
             <div><a href="#" class="sublevel2" data-target="kilalanin">KILALANIN</a>
                 <div class="subnav2" id="kilalanin">
                     <p>
-                        <a href="{{ url('/alexander-t-pimentel') }}">Ayek T. Pimentel</a>
+                        <a href="{{ url('/alexander-t-pimentel') }}">Ayec T. Pimentel</a>
                     </p>
                 </div>
             </div>

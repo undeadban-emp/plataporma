@@ -20,5 +20,6 @@ Route::resource('/plataporma', 'platapormaController');
 
 Route::resource('/alexander-t-pimentel', 'alexanderController');
 Route::resource('/first-district-accomplishment', 'FirstDistrictAccompController');
+Route::resource('/second-district-accomplishment', 'SecondDistrictAccompController');
 
 
