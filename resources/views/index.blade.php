@@ -523,7 +523,7 @@ button.btn.btn-link i {
                        <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
                           data-target="#bislig" aria-expanded="false"
                           aria-controls="bislig">
-                       BISLIG
+                       BISLIG CITY
                        <i class="fa fa-angle-down"></i>
                        </button>
                     </h2>
