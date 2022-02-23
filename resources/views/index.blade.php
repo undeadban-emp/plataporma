@@ -22,7 +22,7 @@
     font-family: 'Poppins';
     font-size: 16px;
     font-weight: 400;
-    line-height: 2.5;
+    line-height: 2;
     text-decoration: none;
 }
 .accordion .item .item-header {
@@ -72,7 +72,7 @@ button.btn.btn-link i {
         <div class="clear"></div>
     </div>
 
-<div class="container">
+<div class="container-fluid">
 <div class="row">
     <div class="col-lg-6 col-sm-12">
         <div class="pt-1 pb-1">
@@ -102,17 +102,71 @@ button.btn.btn-link i {
         <div class="container">
             <div class="accordion" id="municipalityFirstDistrict">
 
+                <div class="item">
+                    <div class="item-header" id="headingTandag">
+                       <h2 class="mb-0">
+                          <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow" type="button" data-toggle="collapse"
+                             data-target="#tandag" aria-expanded="true"
+                             aria-controls="tandag">
+                          TANDAG CITY
+                          <i class="fa fa-angle-down"></i>
+                          </button>
+                       </h2>
+                    </div>
+                    <div id="tandag" class="collapse show" aria-labelledby="headingTandag"
+                       data-parent="#municipalityFirstDistrict">
+                       <div class="t-p">
+                        <div class="candidates pt-2" id="kilalanin">
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/rpimentel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/rpimentel.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/tandag/nmomo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/nmomo.png') }}" alt="" title=""></a></div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="pt-0 pb-0">
+                            <h1 class="fgrey">SB Members</h1>
+                        </div>
+                        <div class="candidates" id="kilalanin">
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/andresan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/andresan.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/avila.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/avila.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/azarcon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/azarcon.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/dumagan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/dumagan.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/geli.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/geli.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/kmomo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/kmomo.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/perez.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/perez.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/jppimentel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/jppimentel.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/tan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/tan.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/ty.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/ty.png') }}" alt="" title=""></a></div>
+                            <div class="clear"></div>
+                        </div>
+                       </div>
+                    </div>
+                 </div>
+
+
+
+
               <div class="item">
                  <div class="item-header" id="headingCarrascal">
                     <h2 class="mb-0">
-                       <button style="font-family: 'gotham';" class="btn btn-link" type="button" data-toggle="collapse"
-                          data-target="#carrascal" aria-expanded="true" aria-controls="carrascal">
+                       <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
+                          data-target="#carrascal" aria-expanded="false" aria-controls="carrascal">
                                      CARRASCAL
                        <i class="fa fa-angle-down"></i>
                        </button>
                     </h2>
                  </div>
-                 <div id="carrascal" class="collapse show" aria-labelledby="headingCarrascal"
+                 <div id="carrascal" class="collapse" aria-labelledby="headingCarrascal"
                     data-parent="#municipalityFirstDistrict">
                     <div class="t-p">
                         <div class="candidates pt-2" id="kilalanin">
@@ -151,7 +205,7 @@ button.btn.btn-link i {
               <div class="item">
                  <div class="item-header" id="headingCantilan">
                     <h2 class="mb-0">
-                       <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                       <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                           data-target="#cantilan" aria-expanded="false" aria-controls="cantilan">
                        CANTILAN
                        <i class="fa fa-angle-down"></i>
@@ -194,10 +248,10 @@ button.btn.btn-link i {
                  </div>
               </div>
 
-              {{-- <div class="item">
+              <div class="item">
                  <div class="item-header" id="headingMadrid">
                     <h2 class="mb-0">
-                       <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                       <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                           data-target="#madrid" aria-expanded="false"
                           aria-controls="madrid">
                        MADRID
@@ -208,15 +262,43 @@ button.btn.btn-link i {
                  <div id="madrid" class="collapse" aria-labelledby="headingMadrid"
                     data-parent="#municipalityFirstDistrict">
                     <div class="t-p">
-            It is a long
+                        <div class="candidates pt-2" id="kilalanin">
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/kimura.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/kimura.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/griar.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/griar.png') }}" alt="" title=""></a></div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="pt-0 pb-0">
+                            <h1 class="fgrey">SB Members</h1>
+                        </div>
+                        <div class="candidates" id="kilalanin">
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/arcero.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/arcero.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/badiang.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/badiang.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/doliente.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/doliente.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/estrada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/estrada.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/gutang.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/gutang.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/montes.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/montes.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/portillano.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/portillano.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/sual.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/sual.png') }}" alt="" title=""></a></div>
+                            <div class="clear"></div>
+                        </div>
                     </div>
                  </div>
-              </div> --}}
+              </div>
 
-              {{-- <div class="item">
+              <div class="item">
                  <div class="item-header" id="headingCarmen">
                     <h2 class="mb-0">
-                       <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                       <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                           data-target="#carmen" aria-expanded="false"
                           aria-controls="carmen">
                        CARMEN
@@ -227,15 +309,43 @@ button.btn.btn-link i {
                  <div id="carmen" class="collapse" aria-labelledby="headingCarmen"
                     data-parent="#municipalityFirstDistrict">
                     <div class="t-p">
-                       It is a
+                        <div class="candidates pt-2" id="kilalanin">
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/plaza.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/plaza.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/manawatao.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/manawatao.png') }}" alt="" title=""></a></div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="pt-0 pb-0">
+                            <h1 class="fgrey">SB Members</h1>
+                        </div>
+                        <div class="candidates" id="kilalanin">
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/aguillon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/aguillon.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/bigno.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/bigno.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/calanas.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/calanas.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/escuyos.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/escuyos.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/estrada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/estrada.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/ohao.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/ohao.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/evaleroso.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/evaleroso.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/nvaleroso.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/nvaleroso.png') }}" alt="" title=""></a></div>
+                            <div class="clear"></div>
+                        </div>
                     </div>
                  </div>
-              </div> --}}
+              </div>
 
-              {{-- <div class="item">
+              <div class="item">
                 <div class="item-header" id="headingLanuza">
                    <h2 class="mb-0">
-                      <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                      <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                          data-target="#lanuza" aria-expanded="false"
                          aria-controls="lanuza">
                       LANUZA
@@ -246,15 +356,43 @@ button.btn.btn-link i {
                 <div id="lanuza" class="collapse" aria-labelledby="headingLanuza"
                    data-parent="#municipalityFirstDistrict">
                    <div class="t-p">
-                      It is a
+                    <div class="candidates pt-2" id="kilalanin">
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/azarcon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/azarcon.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/maquiling.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/maquiling.png') }}" alt="" title=""></a></div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="pt-0 pb-0">
+                        <h1 class="fgrey">SB Members</h1>
+                    </div>
+                    <div class="candidates" id="kilalanin">
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/aparejo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/aparejo.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/eisen.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/eisen.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/estal.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/estal.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/jovita.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/jovita.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/miranda.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/miranda.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/oriel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/oriel.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/sumbilla.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/sumbilla.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/viola.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/viola.png') }}" alt="" title=""></a></div>
+                        <div class="clear"></div>
+                    </div>
                    </div>
                 </div>
-             </div> --}}
+             </div>
 
-             {{-- <div class="item">
+             <div class="item">
                 <div class="item-header" id="headingCortes">
                    <h2 class="mb-0">
-                      <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                      <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                          data-target="#cortes" aria-expanded="false"
                          aria-controls="cortes">
                       CORTES
@@ -265,66 +403,45 @@ button.btn.btn-link i {
                 <div id="cortes" class="collapse" aria-labelledby="headingCortes"
                    data-parent="#municipalityFirstDistrict">
                    <div class="t-p">
-                      It is a
-                   </div>
-                </div>
-             </div> --}}
-
-             <div class="item">
-                <div class="item-header" id="headingTandag">
-                   <h2 class="mb-0">
-                      <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                         data-target="#tandag" aria-expanded="false"
-                         aria-controls="cortes">
-                      TANDAG CITY
-                      <i class="fa fa-angle-down"></i>
-                      </button>
-                   </h2>
-                </div>
-                <div id="tandag" class="collapse" aria-labelledby="headingTandag"
-                   data-parent="#municipalityFirstDistrict">
-                   <div class="t-p">
                     <div class="candidates pt-2" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/rpimentel.png') }}" class="lg-hidden" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/rpimentel.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/tandag/nmomo.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/nmomo.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/yu.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/yu.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/daraman.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/daraman.png') }}" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="pt-0 pb-0">
                         <h1 class="fgrey">SB Members</h1>
                     </div>
                     <div class="candidates" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/andresan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/andresan.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/avila.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/avila.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/azarcon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/azarcon.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/dumagan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/dumagan.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/geli.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/geli.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/kmomo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/kmomo.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/perez.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/perez.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/jppimentel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/jppimentel.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/tan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/tan.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/ty.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/ty.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/bagnol.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/bagnol.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/cagalawan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/cagalawan.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/calamba.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/calamba.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/cuartero.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/cuartero.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/lagura.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/lagura.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/melo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/melo.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/rivera.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/rivera.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/tubo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/tubo.png') }}" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                    </div>
                 </div>
              </div>
 
+
+
              <div class="item">
                 <div class="item-header" id="headingTago">
                    <h2 class="mb-0">
-                      <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                      <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                          data-target="#tago" aria-expanded="false"
                          aria-controls="cortes">
                       TAGO
@@ -371,7 +488,7 @@ button.btn.btn-link i {
              <div class="item">
                 <div class="item-header" id="headingSanMiguel">
                    <h2 class="mb-0">
-                      <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                      <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                          data-target="#sanmiguel" aria-expanded="false"
                          aria-controls="cortes">
                       SAN MIGUEL
@@ -383,10 +500,10 @@ button.btn.btn-link i {
                    data-parent="#municipalityFirstDistrict">
                    <div class="t-p">
                     <div class="candidates pt-2" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san miguel/corilla.png') }}" class="lg-hidden" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san miguel/corilla.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/san miguel/demoto.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san miguel/demoto.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san miguel/corilla.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san miguel/corilla.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/san miguel/demoto.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san miguel/demoto.png') }}" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="pt-0 pb-0">
@@ -415,10 +532,10 @@ button.btn.btn-link i {
                 </div>
              </div>
 
-             {{-- <div class="item">
+             <div class="item">
                 <div class="item-header" id="headingBayabas">
                    <h2 class="mb-0">
-                      <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                      <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                          data-target="#bayabas" aria-expanded="false"
                          aria-controls="cortes">
                       BAYABAS
@@ -429,15 +546,43 @@ button.btn.btn-link i {
                 <div id="bayabas" class="collapse" aria-labelledby="headingBayabas"
                    data-parent="#municipalityFirstDistrict">
                    <div class="t-p">
-                      It is a
+                    <div class="candidates pt-2" id="kilalanin">
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/plozada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/plozada.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/bayabas/garcia.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/garcia.png') }}" alt="" title=""></a></div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="pt-0 pb-0">
+                        <h1 class="fgrey">SB Members</h1>
+                    </div>
+                    <div class="candidates" id="kilalanin">
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/butad.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/butad.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/comboy.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/comboy.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/hinampas.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/hinampas.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/alozada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/alozada.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/klozada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/klozada.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/maglangit.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/maglangit.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/ordona.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/ordona.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/quijada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/quijada.png') }}" alt="" title=""></a></div>
+                        <div class="clear"></div>
+                    </div>
                    </div>
                 </div>
-             </div> --}}
+             </div>
 
              <div class="item">
                 <div class="item-header" id="headingCagwait">
                    <h2 class="mb-0">
-                      <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                      <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                          data-target="#cagwait" aria-expanded="false"
                          aria-controls="cortes">
                       CAGWAIT
@@ -449,10 +594,10 @@ button.btn.btn-link i {
                    data-parent="#municipalityFirstDistrict">
                    <div class="t-p">
                     <div class="candidates pt-2" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/batiancila.png') }}" class="lg-hidden" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/batiancila.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/cagwait/tuscano.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/tuscano.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/batiancila.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/batiancila.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/cagwait/tuscano.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/tuscano.png') }}" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="pt-0 pb-0">
@@ -467,6 +612,8 @@ button.btn.btn-link i {
                         <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/lozada.png') }}" alt="" title=""></a></div>
                         <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/prado.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                         <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/prado.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/quezada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/quezada.png') }}" alt="" title=""></a></div>
                         <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/reyes.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                         <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/reyes.png') }}" alt="" title=""></a></div>
                         <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/tabugon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
@@ -479,10 +626,10 @@ button.btn.btn-link i {
                 </div>
              </div>
 
-             {{-- <div class="item">
+             <div class="item">
                 <div class="item-header" id="headingMarihatag">
                    <h2 class="mb-0">
-                      <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                      <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                          data-target="#marihatag" aria-expanded="false"
                          aria-controls="cortes">
                       MARIHATAG
@@ -493,15 +640,43 @@ button.btn.btn-link i {
                 <div id="marihatag" class="collapse" aria-labelledby="headingMarihatag"
                    data-parent="#municipalityFirstDistrict">
                    <div class="t-p">
-                      It is a
+                    <div class="candidates pt-2" id="kilalanin">
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/fazon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/fazon.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/marihatag/polinar.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/polinar.png') }}" alt="" title=""></a></div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="pt-0 pb-0">
+                        <h1 class="fgrey">SB Members</h1>
+                    </div>
+                    <div class="candidates" id="kilalanin">
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/campos.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/campos.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/gomez.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/gomez.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/lerog.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/lerog.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/lozada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/lozada.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/octobre.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/octobre.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/pascual.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/pascual.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/sampiano.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/sampiano.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/yu.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/yu.png') }}" alt="" title=""></a></div>
+                        <div class="clear"></div>
+                    </div>
                    </div>
                 </div>
-             </div> --}}
+             </div>
 
-             {{-- <div class="item">
+             <div class="item">
                 <div class="item-header" id="headingSanAgustin">
                    <h2 class="mb-0">
-                      <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                      <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                          data-target="#sanagustin" aria-expanded="false"
                          aria-controls="sanagustin">
                       SAN AGUSTIN
@@ -512,15 +687,43 @@ button.btn.btn-link i {
                 <div id="sanagustin" class="collapse" aria-labelledby="headingSanAgustin"
                    data-parent="#municipalityFirstDistrict">
                    <div class="t-p">
-                      It is a
+                    <div class="candidates pt-2" id="kilalanin">
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/alameda.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/alameda.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/san agustin/de guzman.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/de guzman.png') }}" alt="" title=""></a></div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="pt-0 pb-0">
+                        <h1 class="fgrey">SB Members</h1>
+                    </div>
+                    <div class="candidates" id="kilalanin">
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/bcampos.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/bcampos.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/rcampos.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/rcampos.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/climaco.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/climaco.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/lamela.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/lamela.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/layson.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/layson.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/martinez.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/martinez.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/osorio.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/osorio.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/simplicio.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/simplicio.png') }}" alt="" title=""></a></div>
+                        <div class="clear"></div>
+                    </div>
                    </div>
                 </div>
-             </div> --}}
+             </div>
 
              <div class="item">
                 <div class="item-header" id="headingLianga">
                    <h2 class="mb-0">
-                      <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                      <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                          data-target="#lianga" aria-expanded="false"
                          aria-controls="lianga">
                       LIANGA
@@ -532,10 +735,10 @@ button.btn.btn-link i {
                    data-parent="#municipalityFirstDistrict">
                    <div class="t-p">
                     <div class="candidates pt-2" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lianga/pedrozo.png') }}" class="lg-hidden" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lianga/pedrozo.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/lianga/layno.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lianga/layno.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lianga/pedrozo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lianga/pedrozo.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/lianga/layno.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lianga/layno.png') }}" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="pt-0 pb-0">
@@ -598,17 +801,70 @@ button.btn.btn-link i {
         <div class="container">
             <div class="accordion" id="municipalitySecondDistrict">
 
+                <div class="item">
+                    <div class="item-header" id="headingBislig">
+                       <h2 class="mb-0">
+                          <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow" type="button" data-toggle="collapse"
+                             data-target="#bislig" aria-expanded="false"
+                             aria-controls="bislig">
+                          BISLIG CITY
+                          <i class="fa fa-angle-down"></i>
+                          </button>
+                       </h2>
+                    </div>
+                    <div id="bislig" class="collapse show" aria-labelledby="headingBislig"
+                       data-parent="#municipalitySecondDistrict">
+                       <div class="t-p">
+                           <div class="candidates pt-2" id="kilalanin">
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/garay.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/bislig/garay.png') }}" alt="" title=""></a></div>
+                               <div class="candidate w-224  clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates//second/bislig/castillo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/bislig/castillo.png') }}" alt="" title=""></a></div>
+                               <div class="clear"></div>
+                           </div>
+                           <div class="pt-0 pb-0">
+                               <h1 class="fgrey">SB Members</h1>
+                           </div>
+                           <div class="candidates" id="kilalanin">
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/alvar.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/alvar.png') }}" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/alvizo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/alvizo.png') }}" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/casas.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/casas.png') }}" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/chicano.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/chicano.png') }}" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/corvera.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/corvera.png') }}" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/dominguez.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/dominguez.png') }}" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/manada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/manada.png') }}" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/sia.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/sia.png') }}" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/sulapas.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/sulapas.png') }}" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/viduya.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/viduya.png') }}" alt="" title=""></a></div>
+                               <div class="clear"></div>
+                           </div>
+                       </div>
+                    </div>
+                 </div>
+
+
+
               <div class="item">
                  <div class="item-header" id="headingBarobo">
                     <h2 class="mb-0">
-                       <button style="font-family: 'gotham';" class="btn btn-link" type="button" data-toggle="collapse"
+                       <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                           data-target="#barobo" aria-expanded="true" aria-controls="barobo">
                             BAROBO
                        <i class="fa fa-angle-down"></i>
                        </button>
                     </h2>
                  </div>
-                 <div id="barobo" class="collapse show" aria-labelledby="heading"
+                 <div id="barobo" class="collapse" aria-labelledby="heading"
                     data-parent="#municipalitySecondDistrict">
                     <div class="t-p">
                         <div class="candidates pt-2" id="kilalanin">
@@ -647,7 +903,7 @@ button.btn.btn-link i {
                <div class="item">
                  <div class="item-header" id="headingTagbina">
                     <h2 class="mb-0">
-                       <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                       <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                           data-target="#tagbina" aria-expanded="false" aria-controls="tagbina">
                        TAGBINA
                        <i class="fa fa-angle-down"></i>
@@ -691,7 +947,7 @@ button.btn.btn-link i {
               <div class="item">
                  <div class="item-header" id="headingHinatuan">
                     <h2 class="mb-0">
-                       <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                       <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                           data-target="#hinatuan" aria-expanded="false"
                           aria-controls="hinatuan">
                        HINATUAN
@@ -736,60 +992,9 @@ button.btn.btn-link i {
               </div>
 
               <div class="item">
-                 <div class="item-header" id="headingBislig">
-                    <h2 class="mb-0">
-                       <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                          data-target="#bislig" aria-expanded="false"
-                          aria-controls="bislig">
-                       BISLIG CITY
-                       <i class="fa fa-angle-down"></i>
-                       </button>
-                    </h2>
-                 </div>
-                 <div id="bislig" class="collapse" aria-labelledby="headingBislig"
-                    data-parent="#municipalitySecondDistrict">
-                    <div class="t-p">
-                        <div class="candidates pt-2" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/garay.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/bislig/garay.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224  clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates//second/bislig/castillo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/bislig/castillo.png') }}" alt="" title=""></a></div>
-                            <div class="clear"></div>
-                        </div>
-                        <div class="pt-0 pb-0">
-                            <h1 class="fgrey">SB Members</h1>
-                        </div>
-                        <div class="candidates" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/alvar.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/alvar.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/alvizo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/alvizo.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/casas.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/casas.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/chicano.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/chicano.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/corvera.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/corvera.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/dominguez.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/dominguez.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/manada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/manada.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/sia.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/sia.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/sulapas.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/sulapas.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/viduya.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/viduya.png') }}" alt="" title=""></a></div>
-                            <div class="clear"></div>
-                        </div>
-                    </div>
-                 </div>
-              </div>
-
-              <div class="item">
                 <div class="item-header" id="headingLiangig">
                    <h2 class="mb-0">
-                      <button style="font-family: 'gotham';" class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                      <button style="font-family: 'gotham'; padding-left:40px;" class="btn btn-link shadow collapsed" type="button" data-toggle="collapse"
                          data-target="#lingig" aria-expanded="false"
                          aria-controls="lingig">
                       LINGIG
