@@ -115,7 +115,7 @@ button.btn.btn-link i {
                     </div>
                     <div id="tandag" class="collapse show" aria-labelledby="headingTandag"
                        data-parent="#municipalityFirstDistrict">
-                       <div class="">
+                       <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
                             <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/rpimentel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                             <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/rpimentel.png') }}" alt="" title=""></a></div>
@@ -168,7 +168,7 @@ button.btn.btn-link i {
                  </div>
                  <div id="carrascal" class="collapse" aria-labelledby="headingCarrascal"
                     data-parent="#municipalityFirstDistrict">
-                    <div class="">
+                    <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
                             <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carrascal/pimentel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                             <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carrascal/pimentel.png') }}" alt="" title=""></a></div>
@@ -214,7 +214,7 @@ button.btn.btn-link i {
                  </div>
                  <div id="cantilan" class="collapse" aria-labelledby="headingCantilan"
                     data-parent="#municipalityFirstDistrict">
-                    <div class="">
+                    <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
                             <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cantilan/pichay.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                             <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cantilan/pichay.png') }}" alt="" title=""></a></div>
@@ -261,7 +261,7 @@ button.btn.btn-link i {
                  </div>
                  <div id="madrid" class="collapse" aria-labelledby="headingMadrid"
                     data-parent="#municipalityFirstDistrict">
-                    <div class="">
+                    <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
                             <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/kimura.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                             <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/kimura.png') }}" alt="" title=""></a></div>
@@ -308,7 +308,7 @@ button.btn.btn-link i {
                  </div>
                  <div id="carmen" class="collapse" aria-labelledby="headingCarmen"
                     data-parent="#municipalityFirstDistrict">
-                    <div class="">
+                    <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
                             <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/plaza.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                             <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/plaza.png') }}" alt="" title=""></a></div>
@@ -355,7 +355,7 @@ button.btn.btn-link i {
                 </div>
                 <div id="lanuza" class="collapse" aria-labelledby="headingLanuza"
                    data-parent="#municipalityFirstDistrict">
-                   <div class="">
+                   <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
                         <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/azarcon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                         <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/azarcon.png') }}" alt="" title=""></a></div>
@@ -402,7 +402,7 @@ button.btn.btn-link i {
                 </div>
                 <div id="cortes" class="collapse" aria-labelledby="headingCortes"
                    data-parent="#municipalityFirstDistrict">
-                   <div class="">
+                   <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
                         <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/yu.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                         <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/yu.png') }}" alt="" title=""></a></div>
@@ -451,7 +451,7 @@ button.btn.btn-link i {
                 </div>
                 <div id="tago" class="collapse" aria-labelledby="headingTago"
                    data-parent="#municipalityFirstDistrict">
-                   <div class="">
+                   <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
                         <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tago/laurente.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                         <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tago/laurente.png') }}" alt="" title=""></a></div>
@@ -498,7 +498,7 @@ button.btn.btn-link i {
                 </div>
                 <div id="sanmiguel" class="collapse" aria-labelledby="headingSanMiguel"
                    data-parent="#municipalityFirstDistrict">
-                   <div class="">
+                   <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
                         <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san miguel/corilla.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                         <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san miguel/corilla.png') }}" alt="" title=""></a></div>
@@ -545,7 +545,7 @@ button.btn.btn-link i {
                 </div>
                 <div id="bayabas" class="collapse" aria-labelledby="headingBayabas"
                    data-parent="#municipalityFirstDistrict">
-                   <div class="">
+                   <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
                         <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/plozada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                         <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/plozada.png') }}" alt="" title=""></a></div>
@@ -592,7 +592,7 @@ button.btn.btn-link i {
                 </div>
                 <div id="cagwait" class="collapse" aria-labelledby="headingCagwait"
                    data-parent="#municipalityFirstDistrict">
-                   <div class="">
+                   <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
                         <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/batiancila.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                         <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/batiancila.png') }}" alt="" title=""></a></div>
@@ -639,7 +639,7 @@ button.btn.btn-link i {
                 </div>
                 <div id="marihatag" class="collapse" aria-labelledby="headingMarihatag"
                    data-parent="#municipalityFirstDistrict">
-                   <div class="">
+                   <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
                         <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/fazon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                         <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/fazon.png') }}" alt="" title=""></a></div>
@@ -686,7 +686,7 @@ button.btn.btn-link i {
                 </div>
                 <div id="sanagustin" class="collapse" aria-labelledby="headingSanAgustin"
                    data-parent="#municipalityFirstDistrict">
-                   <div class="">
+                   <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
                         <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/alameda.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                         <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/alameda.png') }}" alt="" title=""></a></div>
@@ -733,7 +733,7 @@ button.btn.btn-link i {
                 </div>
                 <div id="lianga" class="collapse" aria-labelledby="headingLianga"
                    data-parent="#municipalityFirstDistrict">
-                   <div class="">
+                   <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
                         <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lianga/pedrozo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                         <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lianga/pedrozo.png') }}" alt="" title=""></a></div>
@@ -814,7 +814,7 @@ button.btn.btn-link i {
                     </div>
                     <div id="bislig" class="collapse show" aria-labelledby="headingBislig"
                        data-parent="#municipalitySecondDistrict">
-                       <div class="">
+                       <div class="p-t">
                            <div class="candidates pt-2" id="kilalanin">
                                <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/garay.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                                <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/bislig/garay.png') }}" alt="" title=""></a></div>
@@ -866,7 +866,7 @@ button.btn.btn-link i {
                  </div>
                  <div id="barobo" class="collapse" aria-labelledby="heading"
                     data-parent="#municipalitySecondDistrict">
-                    <div class="">
+                    <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
                             <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/barobo/pama.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                             <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/barobo/pama.png') }}" alt="" title=""></a></div>
@@ -912,7 +912,7 @@ button.btn.btn-link i {
                  </div>
                  <div id="tagbina" class="collapse" aria-labelledby="headingTangbina"
                     data-parent="#municipalitySecondDistrict">
-                    <div class="">
+                    <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
                             <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/tagbina/enaraiso.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                             <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/tagbina/enaraiso.png') }}" alt="" title=""></a></div>
@@ -957,7 +957,7 @@ button.btn.btn-link i {
                  </div>
                  <div id="hinatuan" class="collapse" aria-labelledby="headingHinatuan"
                     data-parent="#municipalitySecondDistrict">
-                    <div class="">
+                    <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
                             <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/hinatuan/tgaray.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                             <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/hinatuan/tgaray.png') }}" alt="" title=""></a></div>
@@ -1004,7 +1004,7 @@ button.btn.btn-link i {
                 </div>
                 <div id="lingig" class="collapse" aria-labelledby="headingLingig"
                    data-parent="#municipalitySecondDistrict">
-                   <div class="">
+                   <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
                         <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/lingig/evangelio.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
                         <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/lingig/evangelio.png') }}" alt="" title=""></a></div>
