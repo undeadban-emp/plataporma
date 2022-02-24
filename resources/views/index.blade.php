@@ -66,8 +66,8 @@ button.btn.btn-link i {
 
 @section('content')
     <div class="candidates pt-5" id="kilalanin">
-        <div class="candidate w-224 clg-hidden"><a href="{{ url('alexander-imentel') }}"><img src="{{ asset('assets/images/candidates/pimentel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-        <div class="candidate w-224  m-negmargin-5 cxs-hidden"><a href="{{ url('alexander-imentel') }}"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/pimentel.png') }}" alt="" title=""></a></div>
+        <div class="candidate w-224 clg-hidden"><a href="{{ url('alexander-t-pimentel') }}"><img src="{{ asset('assets/images/candidates/pimentel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+        <div class="candidate w-224  m-negmargin-5 cxs-hidden"><a href="{{ url('alexander-t-pimentel') }}"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/pimentel.png') }}" alt="" title=""></a></div>
         <div class="candidate w-224"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/alameda.png') }}" alt="" title=""></a></div>
         <div class="clear"></div>
     </div>

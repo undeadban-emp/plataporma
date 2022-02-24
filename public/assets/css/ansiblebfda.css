@@ -326,7 +326,7 @@ nav.otso {
 }
 
 .candidates {
-    width: 90%;
+    width: 100%;
     max-width: 1524px;
     text-align: center;
     margin: 0 auto;
@@ -385,7 +385,7 @@ nav.otso {
 }
 .candidates .w-224,
 .w-224 {
-    width: 22%;
+    width: 30%;
 }
 
 w-custom2 {
@@ -1499,7 +1499,7 @@ h1 span {
         display: inline-block;
     }
     .candidates .w-224 {
-        width: 38.6% !important;
+        width: 48% !important;
     }
 
     .candidates .clear {
