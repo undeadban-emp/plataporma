@@ -1,5 +1,6 @@
 <?php
 
+use App\visitorCounter;
 use Illuminate\Support\Facades\Route;
 
 /*

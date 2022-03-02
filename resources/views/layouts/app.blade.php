@@ -73,6 +73,9 @@
         <div class="social">
         </div>
         <div class="footer-links">
+            <div class="privacy">
+                <a class="fwhite" href="">Visitors Count: <i class="fa fa-user"></i> {{ $counter }}</a>
+            </div>
             <div><p>Copyright ©{{ date('Y') }} . All Rights Reserved</p></div>
             <div class="clear"></div>
         </div>
