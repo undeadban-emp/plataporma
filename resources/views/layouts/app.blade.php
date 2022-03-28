@@ -32,6 +32,17 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
+                <img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380114/images/header/header_ie1ecf.webp" alt="">
+            </div>
+            <div class="carousel-item">
+                <img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380114/images/header/header2_qoqo7v.webp" alt="">
+            </div>
+            <div class="carousel-item">
+                <img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380115/images/header/header3_xmilqo.webp" alt="">
+            </div>
+        </div>
+        {{-- <div class="carousel-inner">
+            <div class="carousel-item active">
                 <img src="{{ asset('/assets/images/header/header.jpg') }}" alt="">
             </div>
             <div class="carousel-item">
@@ -40,7 +51,7 @@
             <div class="carousel-item">
                 <img src="{{ asset('/assets/images/header/header3.jpg') }}" alt="">
             </div>
-        </div>
+        </div> --}}
     </div>
 
     <button class="toTop" id="myBtn" title="Go to top"><a title="Go to top"><i class="fa fa-arrow-up" aria-hidden="true"></i></a></button>
@@ -66,7 +77,7 @@
 
     <div class="section footer-kumilos">
         <div class="diagonal-divider-bottom">
-            <img src="{{ asset('/assets/images/divider_white_green.png') }}" >
+            <img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380046/images/divider_white_green_qeovco.webp" >
         </div>
     </div>
     <div class="section green">

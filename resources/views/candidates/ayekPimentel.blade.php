@@ -7,7 +7,7 @@
 
 <div class="section candidate-holder">
 	<div class="candidate">
-		<img src="{{ asset('assets/images/pimentel.jpg') }}" alt="" title="">
+		<img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380169/images/candidates/pimentel_zu4puv.webp" alt="" title="">
 	</div>
 </div>
 
@@ -21,7 +21,7 @@
 <!-- Divider -->
 <div class="section white">
 	<div class="diagonal-divider-bottom inner-cand">
-		<img src="{{ asset('assets/images/divider-0-grey.png') }}" >
+		<img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380046/images/divider-0-grey_pxm8oy.webp" >
 	</div>
     <div class="bot-pad">&nbsp;</div>
 </div>
@@ -71,7 +71,7 @@
 
 <div class="section white ">
 	<div class="diagonal-divider-top">
-		<img src="{{ asset('assets/images/divider-grey-0.png') }}" >
+		<img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380047/images/divider-grey-0_lxvfy8.webp" >
 	</div>
 </div>
 
@@ -180,7 +180,7 @@
 				<li><p>Gawad kalasag 2020 Fully Complaint(Surigao del Sur)</p></li>
 			</ul>
                 <div class="candidate">
-                    <img src="{{ asset('assets/images/sealofgoodgovernance.png') }}" alt="" title="">
+                    <img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380048/images/sealofgoodgovernance_fthl3z.webp" alt="" title="">
                 </div>
 		</div>
 		<div class="clear"></div>

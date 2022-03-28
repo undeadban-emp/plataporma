@@ -66,9 +66,9 @@ button.btn.btn-link i {
 
 @section('content')
     <div class="candidates pt-5" id="kilalanin">
-        <div class="candidate w-224 clg-hidden"><a href="{{ url('alexander-t-pimentel') }}"><img src="{{ asset('assets/images/candidates/pimentel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-        <div class="candidate w-224  m-negmargin-5 cxs-hidden"><a href="{{ url('alexander-t-pimentel') }}"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/pimentel.png') }}" alt="" title=""></a></div>
-        <div class="candidate w-224"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/alameda.png') }}" alt="" title=""></a></div>
+        <div class="candidate w-224 clg-hidden"><a href="{{ url('alexander-t-pimentel') }}"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380169/images/candidates/pimentel_zu4puv.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+        <div class="candidate w-224  m-negmargin-5 cxs-hidden"><a href="{{ url('alexander-t-pimentel') }}"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380169/images/candidates/pimentel_zu4puv.webp" alt="" title=""></a></div>
+        <div class="candidate w-224"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380168/images/candidates/alameda_mfdohc.webp" alt="" title=""></a></div>
         <div class="clear"></div>
     </div>
 
@@ -79,23 +79,23 @@ button.btn.btn-link i {
             <h1 class="fgrey">1st District</h1>
         </div>
         <div class="candidates" id="kilalanin">
-            <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/rmomo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/rmomo.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-224 clg-hidden"><a href="#"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380166/images/candidates/rmomo_tjdm5v.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380166/images/candidates/rmomo_tjdm5v.webp" alt="" title=""></a></div>
         </div>
         <div class="pt-1 pb-1">
             <h1 class="fgrey">Board Members</h1>
         </div>
         <div class="candidates" id="kilalanin">
-            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/azarcon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/azarcon.png') }}" alt="" title=""></a></div>
-            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/dumagan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/dumagan.png') }}" alt="" title=""></a></div>
-            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/layno.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/layno.png') }}" alt="" title=""></a></div>
-            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/momo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/momo.png') }}" alt="" title=""></a></div>
-            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/montesclaros.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/montesclaros.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380209/images/candidates/first/azarcon_rlfzkt.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380209/images/candidates/first/azarcon_rlfzkt.webp" alt="" title=""></a></div>
+            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380209/images/candidates/first/dumagan_eyerqi.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380209/images/candidates/first/dumagan_eyerqi.webp" alt="" title=""></a></div>
+            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380209/images/candidates/first/layno_lw7v1t.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380209/images/candidates/first/layno_lw7v1t.webp" alt="" title=""></a></div>
+            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380209/images/candidates/first/momo_tbzoch.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380209/images/candidates/first/momo_tbzoch.webp" alt="" title=""></a></div>
+            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380209/images/candidates/first/montesclaros_bjh8ab.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380209/images/candidates/first/montesclaros_bjh8ab.webp" alt="" title=""></a></div>
             <div class="clear"></div>
         </div>
         {{-- municipalities --}}
@@ -117,36 +117,36 @@ button.btn.btn-link i {
                        data-parent="#municipalityFirstDistrict">
                        <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/rpimentel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/rpimentel.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/tandag/nmomo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/nmomo.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/rpimentel_u0jgnp.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/rpimentel_u0jgnp.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href="#"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/nmomo_vrtxub.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/nmomo_vrtxub.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                         <div class="pt-0 pb-0">
                             <h1 class="fgrey">SB Members</h1>
                         </div>
                         <div class="candidates" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/andresan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/andresan.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/avila.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/avila.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/azarcon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/azarcon.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/dumagan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/dumagan.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/geli.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/geli.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/kmomo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/kmomo.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/perez.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/perez.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/jppimentel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/jppimentel.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/tan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/tan.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tandag/ty.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tandag/ty.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/andresan_qkxlgj.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/andresan_qkxlgj.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/avila_xkjrvx.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/avila_xkjrvx.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/azarcon_uuqq8w.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/azarcon_uuqq8w.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/dumagan_gv50td.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/dumagan_gv50td.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/geli_v3614k.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/geli_v3614k.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/kmomo_bq0hmd.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/kmomo_bq0hmd.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380792/images/candidates/first/tandag/perez_g07kaq.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380792/images/candidates/first/tandag/perez_g07kaq.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/jppimentel_mhb7yn.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/jppimentel_mhb7yn.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/tan_nzn7p5.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/tan_nzn7p5.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/ty_m0l70r.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380791/images/candidates/first/tandag/ty_m0l70r.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                        </div>
@@ -170,32 +170,32 @@ button.btn.btn-link i {
                     data-parent="#municipalityFirstDistrict">
                     <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carrascal/pimentel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carrascal/pimentel.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carrascal/valle.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carrascal/valle.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380484/images/candidates/first/carrascal/pimentel_lx5wxo.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380484/images/candidates/first/carrascal/pimentel_lx5wxo.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380484/images/candidates/first/carrascal/valle_cl8yxy.webp" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380484/images/candidates/first/carrascal/valle_cl8yxy.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                         <div class="pt-0 pb-0">
                             <h1 class="fgrey">SB Members</h1>
                         </div>
                         <div class="candidates" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carrascal/ague.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carrascal/ague.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carrascal/azarcon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carrascal/azarcon.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carrascal/constantino.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carrascal/constantino.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carrascal/cuajao.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carrascal/cuajao.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carrascal/eliot.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carrascal/eliot.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carrascal/hotchkiss.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carrascal/hotchkiss.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carrascal/intano.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carrascal/intano.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carrascal/sugian.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carrascal/sugian.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380484/images/candidates/first/carrascal/ague_lelvcj.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380484/images/candidates/first/carrascal/ague_lelvcj.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380485/images/candidates/first/carrascal/azarcon_bouzzf.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380485/images/candidates/first/carrascal/azarcon_bouzzf.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380485/images/candidates/first/carrascal/constantino_vout1u.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380485/images/candidates/first/carrascal/constantino_vout1u.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380485/images/candidates/first/carrascal/cuajao_knxfom.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380485/images/candidates/first/carrascal/cuajao_knxfom.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380485/images/candidates/first/carrascal/eliot_ivpwb4.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380485/images/candidates/first/carrascal/eliot_ivpwb4.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380484/images/candidates/first/carrascal/hotchkiss_qn7cwp.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380484/images/candidates/first/carrascal/hotchkiss_qn7cwp.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380484/images/candidates/first/carrascal/intano_tgxxkk.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380484/images/candidates/first/carrascal/intano_tgxxkk.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380484/images/candidates/first/carrascal/sugian_yf3rau.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380484/images/candidates/first/carrascal/sugian_yf3rau.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                     </div>
@@ -216,32 +216,32 @@ button.btn.btn-link i {
                     data-parent="#municipalityFirstDistrict">
                     <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cantilan/pichay.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cantilan/pichay.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cantilan/vega.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cantilan/vega.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380428/images/candidates/first/cantilan/pichay_vqmztm.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380428/images/candidates/first/cantilan/pichay_vqmztm.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380427/images/candidates/first/cantilan/vega_nigaia.webp" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380427/images/candidates/first/cantilan/vega_nigaia.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                         <div class="pt-0 pb-0">
                             <h1 class="fgrey">SB Members</h1>
                         </div>
                         <div class="candidates" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cantilan/arreza.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cantilan/arreza.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cantilan/cale.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cantilan/cale.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cantilan/creman.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cantilan/creman.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cantilan/cuaton.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cantilan/cuaton.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cantilan/espura.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cantilan/espura.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cantilan/flores.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cantilan/flores.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cantilan/iriberri.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cantilan/iriberri.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cantilan/viloria.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cantilan/viloria.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380427/images/candidates/first/cantilan/arreza_esngtn.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380427/images/candidates/first/cantilan/arreza_esngtn.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380427/images/candidates/first/cantilan/cale_g2hclp.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380427/images/candidates/first/cantilan/cale_g2hclp.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380427/images/candidates/first/cantilan/creman_nocs3x.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380427/images/candidates/first/cantilan/creman_nocs3x.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380427/images/candidates/first/cantilan/cuaton_rpnptq.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380427/images/candidates/first/cantilan/cuaton_rpnptq.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380428/images/candidates/first/cantilan/espura_aw8d9x.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380428/images/candidates/first/cantilan/espura_aw8d9x.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380428/images/candidates/first/cantilan/flores_jzkcjm.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380428/images/candidates/first/cantilan/flores_jzkcjm.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380428/images/candidates/first/cantilan/iriberri_qtwoly.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380428/images/candidates/first/cantilan/iriberri_qtwoly.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380427/images/candidates/first/cantilan/viloria_sgt24k.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380427/images/candidates/first/cantilan/viloria_sgt24k.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                     </div>
@@ -263,32 +263,32 @@ button.btn.btn-link i {
                     data-parent="#municipalityFirstDistrict">
                     <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/kimura.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/kimura.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/griar.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/griar.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/kimura_mjv1sv.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/kimura_mjv1sv.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/griar_qbdqtq.webp" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/griar_qbdqtq.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                         <div class="pt-0 pb-0">
                             <h1 class="fgrey">SB Members</h1>
                         </div>
                         <div class="candidates" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/arcero.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/arcero.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/badiang.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/badiang.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/doliente.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/doliente.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/estrada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/estrada.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/gutang.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/gutang.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/montes.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/montes.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/portillano.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/portillano.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/madrid/sual.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/madrid/sual.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/arcero_foyxsx.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/arcero_foyxsx.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/badiang_rlci91.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/badiang_rlci91.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/doliente_p1f4vp.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/doliente_p1f4vp.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/estrada_uohjte.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/estrada_uohjte.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/gutang_wfw39g.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/gutang_wfw39g.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/montes_g11dbj.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/montes_g11dbj.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/portillano_bxwsrc.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/portillano_bxwsrc.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/sual_du2bkf.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380657/images/candidates/first/madrid/sual_du2bkf.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                     </div>
@@ -310,32 +310,32 @@ button.btn.btn-link i {
                     data-parent="#municipalityFirstDistrict">
                     <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/plaza.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/plaza.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/manawatao.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/manawatao.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380458/images/candidates/first/carmen/plaza_sq0jwx.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380458/images/candidates/first/carmen/plaza_sq0jwx.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380459/images/candidates/first/carmen/manawatao_nj6gs8.webp" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380459/images/candidates/first/carmen/manawatao_nj6gs8.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                         <div class="pt-0 pb-0">
                             <h1 class="fgrey">SB Members</h1>
                         </div>
                         <div class="candidates" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/aguillon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/aguillon.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/bigno.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/bigno.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/calanas.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/calanas.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/escuyos.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/escuyos.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/estrada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/estrada.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/ohao.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/ohao.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/evaleroso.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/evaleroso.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/carmen/nvaleroso.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/carmen/nvaleroso.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380458/images/candidates/first/carmen/aguillon_stsowq.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380458/images/candidates/first/carmen/aguillon_stsowq.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380458/images/candidates/first/carmen/bigno_r9fsmx.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380458/images/candidates/first/carmen/bigno_r9fsmx.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380458/images/candidates/first/carmen/calanas_elxyhz.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380458/images/candidates/first/carmen/calanas_elxyhz.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380458/images/candidates/first/carmen/escuyos_kzln6c.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380458/images/candidates/first/carmen/escuyos_kzln6c.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380458/images/candidates/first/carmen/estrada_kostvi.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380458/images/candidates/first/carmen/estrada_kostvi.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380459/images/candidates/first/carmen/ohao_mijded.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380459/images/candidates/first/carmen/ohao_mijded.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380459/images/candidates/first/carmen/evaleroso_lzjo8g.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380459/images/candidates/first/carmen/evaleroso_lzjo8g.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380459/images/candidates/first/carmen/nvaleroso_x2mrta.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380459/images/candidates/first/carmen/nvaleroso_x2mrta.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                     </div>
@@ -357,32 +357,32 @@ button.btn.btn-link i {
                    data-parent="#municipalityFirstDistrict">
                    <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/azarcon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/azarcon.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/maquiling.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/maquiling.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380598/images/candidates/first/lanuza/azarcon_ofcix5.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380598/images/candidates/first/lanuza/azarcon_ofcix5.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380599/images/candidates/first/lanuza/maquiling_nyotrk.webp" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380599/images/candidates/first/lanuza/maquiling_nyotrk.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="pt-0 pb-0">
                         <h1 class="fgrey">SB Members</h1>
                     </div>
                     <div class="candidates" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/aparejo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/aparejo.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/eisen.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/eisen.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/estal.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/estal.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/jovita.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/jovita.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/miranda.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/miranda.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/oriel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/oriel.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/sumbilla.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/sumbilla.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lanuza/viola.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lanuza/viola.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380598/images/candidates/first/lanuza/aparejo_ibvwhe.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380598/images/candidates/first/lanuza/aparejo_ibvwhe.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380598/images/candidates/first/lanuza/eisen_lkxwvf.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380598/images/candidates/first/lanuza/eisen_lkxwvf.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380598/images/candidates/first/lanuza/estal_y1jild.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380598/images/candidates/first/lanuza/estal_y1jild.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380598/images/candidates/first/lanuza/jovita_cvdks0.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380598/images/candidates/first/lanuza/jovita_cvdks0.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380599/images/candidates/first/lanuza/miranda_nxqc9p.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380599/images/candidates/first/lanuza/miranda_nxqc9p.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380599/images/candidates/first/lanuza/oriel_sckchk.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380599/images/candidates/first/lanuza/oriel_sckchk.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380599/images/candidates/first/lanuza/sumbilla_etmjmr.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380599/images/candidates/first/lanuza/sumbilla_etmjmr.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380598/images/candidates/first/lanuza/viola_r2jl7b.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380598/images/candidates/first/lanuza/viola_r2jl7b.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                    </div>
@@ -404,32 +404,32 @@ button.btn.btn-link i {
                    data-parent="#municipalityFirstDistrict">
                    <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/yu.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/yu.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/daraman.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/daraman.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380574/images/candidates/first/cortes/yu_vkxzgp.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380574/images/candidates/first/cortes/yu_vkxzgp.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380575/images/candidates/first/cortes/daraman_jp9fag.webp" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380575/images/candidates/first/cortes/daraman_jp9fag.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="pt-0 pb-0">
                         <h1 class="fgrey">SB Members</h1>
                     </div>
                     <div class="candidates" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/bagnol.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/bagnol.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/cagalawan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/cagalawan.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/calamba.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/calamba.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/cuartero.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/cuartero.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/lagura.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/lagura.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/melo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/melo.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/rivera.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/rivera.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cortes/tubo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cortes/tubo.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380574/images/candidates/first/cortes/bagnol_phffqb.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380574/images/candidates/first/cortes/bagnol_phffqb.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380574/images/candidates/first/cortes/cagalawan_vgngfz.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380574/images/candidates/first/cortes/cagalawan_vgngfz.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380574/images/candidates/first/cortes/calamba_nyecuw.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380574/images/candidates/first/cortes/calamba_nyecuw.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380575/images/candidates/first/cortes/cuartero_mpjwmz.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380575/images/candidates/first/cortes/cuartero_mpjwmz.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380575/images/candidates/first/cortes/lagura_ugveqj.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380575/images/candidates/first/cortes/lagura_ugveqj.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380575/images/candidates/first/cortes/melo_g91cmi.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380575/images/candidates/first/cortes/melo_g91cmi.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380574/images/candidates/first/cortes/rivera_n8gjvb.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380574/images/candidates/first/cortes/rivera_n8gjvb.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380574/images/candidates/first/cortes/tubo_fxmrbj.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380574/images/candidates/first/cortes/tubo_fxmrbj.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                    </div>
@@ -453,32 +453,32 @@ button.btn.btn-link i {
                    data-parent="#municipalityFirstDistrict">
                    <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tago/laurente.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tago/laurente.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tago/pimentel.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tago/pimentel.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/laurente_fl5mm7.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/laurente_fl5mm7.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/pimentel_mioelb.webp" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/pimentel_mioelb.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="pt-0 pb-0">
                         <h1 class="fgrey">SB Members</h1>
                     </div>
                     <div class="candidates" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tago/baldemor.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tago/baldemor.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tago/elizalde.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tago/elizalde.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tago/gasulas.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tago/gasulas.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tago/jpimentel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tago/jpimentel.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tago/kpimentel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tago/kpimentel.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tago/milloren.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tago/milloren.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tago/montero.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tago/montero.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/tago/serrano.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/tago/serrano.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/baldemor_tbvfde.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/baldemor_tbvfde.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/elizalde_qohal3.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/elizalde_qohal3.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/gasulas_newdky.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/gasulas_newdky.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/milloren_htb8ri.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/milloren_htb8ri.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/montero_jtiukp.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/montero_jtiukp.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/jpimentel_j8afym.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/jpimentel_j8afym.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/kpimentel_jytv5z.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/kpimentel_jytv5z.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/serrano_xf5jr7.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380751/images/candidates/first/tago/serrano_xf5jr7.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                    </div>
@@ -500,32 +500,32 @@ button.btn.btn-link i {
                    data-parent="#municipalityFirstDistrict">
                    <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san miguel/corilla.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san miguel/corilla.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/san miguel/demoto.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san miguel/demoto.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380731/images/candidates/first/san%20miguel/corilla_xozhse.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380731/images/candidates/first/san%20miguel/corilla_xozhse.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380731/images/candidates/first/san%20miguel/demoto_t4kukw.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380731/images/candidates/first/san%20miguel/demoto_t4kukw.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="pt-0 pb-0">
                         <h1 class="fgrey">SB Members</h1>
                     </div>
                     <div class="candidates" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san miguel/egnora.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san miguel/egnora.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san miguel/gascon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san miguel/gascon.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san miguel/guinsod.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san miguel/guinsod.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san miguel/montenegro.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san miguel/montenegro.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san miguel/murillo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san miguel/murillo.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san miguel/nazi.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san miguel/nazi.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san miguel/tabaranza.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san miguel/tabaranza.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san miguel/torrefranca.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san miguel/torrefranca.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380731/images/candidates/first/san%20miguel/egnora_eh9cfp.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380731/images/candidates/first/san%20miguel/egnora_eh9cfp.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380731/images/candidates/first/san%20miguel/gascon_isehx9.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380731/images/candidates/first/san%20miguel/gascon_isehx9.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380731/images/candidates/first/san%20miguel/guinsod_i1dmma.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380731/images/candidates/first/san%20miguel/guinsod_i1dmma.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380732/images/candidates/first/san%20miguel/montenegro_h2nbe0.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380732/images/candidates/first/san%20miguel/montenegro_h2nbe0.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380732/images/candidates/first/san%20miguel/murillo_dyi1gl.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380732/images/candidates/first/san%20miguel/murillo_dyi1gl.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380732/images/candidates/first/san%20miguel/nazi_oucyeg.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380732/images/candidates/first/san%20miguel/nazi_oucyeg.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380732/images/candidates/first/san%20miguel/tabaranza_dtxtbt.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380732/images/candidates/first/san%20miguel/tabaranza_dtxtbt.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380731/images/candidates/first/san%20miguel/torrefranca_q1aih2.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380731/images/candidates/first/san%20miguel/torrefranca_q1aih2.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                    </div>
@@ -547,32 +547,32 @@ button.btn.btn-link i {
                    data-parent="#municipalityFirstDistrict">
                    <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/plozada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/plozada.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/bayabas/garcia.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/garcia.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380239/images/candidates/first/bayabas/plozada_giedhq.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380239/images/candidates/first/bayabas/plozada_giedhq.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/garcia_r44osr.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/garcia_r44osr.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="pt-0 pb-0">
                         <h1 class="fgrey">SB Members</h1>
                     </div>
                     <div class="candidates" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/butad.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/butad.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/comboy.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/comboy.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/hinampas.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/hinampas.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/alozada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/alozada.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/klozada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/klozada.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/maglangit.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/maglangit.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/ordona.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/ordona.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/bayabas/quijada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/bayabas/quijada.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/butad_clvtfy.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/butad_clvtfy.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/comboy_jnl536.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/comboy_jnl536.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/hinampas_de3lf3.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/hinampas_de3lf3.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/alozada_yvcn1n.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/alozada_yvcn1n.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/klozada_xufimq.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/klozada_xufimq.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/maglangit_sgudur.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/maglangit_sgudur.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/ordona_lggcoh.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380238/images/candidates/first/bayabas/ordona_lggcoh.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380239/images/candidates/first/bayabas/quijada_iyv0oq.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380239/images/candidates/first/bayabas/quijada_iyv0oq.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                    </div>
@@ -594,32 +594,32 @@ button.btn.btn-link i {
                    data-parent="#municipalityFirstDistrict">
                    <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/batiancila.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/batiancila.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/cagwait/tuscano.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/tuscano.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/batiancila_qnfho7.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/batiancila_qnfho7.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/tuscano_zmmmqp.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/tuscano_zmmmqp.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="pt-0 pb-0">
                         <h1 class="fgrey">SB Members</h1>
                     </div>
                     <div class="candidates" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/adaya.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/adaya.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/espinoza.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/espinoza.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/lozada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/lozada.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/prado.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/prado.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/quezada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/quezada.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/reyes.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/reyes.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/tabugon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/tabugon.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/cagwait/vasquez.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/cagwait/vasquez.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/adaya_wzbgtt.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/adaya_wzbgtt.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/espinoza_owda8v.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/espinoza_owda8v.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/lozada_ku2hfy.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/lozada_ku2hfy.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/prado_heq4l9.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/prado_heq4l9.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/quezada_gqgun4.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/quezada_gqgun4.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/reyes_eav3wc.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/reyes_eav3wc.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/tabugon_vy8as2.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/tabugon_vy8as2.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/vasquez_pjodfx.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380375/images/candidates/first/cagwait/vasquez_pjodfx.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                    </div>
@@ -641,32 +641,32 @@ button.btn.btn-link i {
                    data-parent="#municipalityFirstDistrict">
                    <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/fazon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/fazon.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/marihatag/polinar.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/polinar.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380685/images/candidates/first/marihatag/fazon_fs8ghc.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380685/images/candidates/first/marihatag/fazon_fs8ghc.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380686/images/candidates/first/marihatag/polinar_msthht.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380686/images/candidates/first/marihatag/polinar_msthht.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="pt-0 pb-0">
                         <h1 class="fgrey">SB Members</h1>
                     </div>
                     <div class="candidates" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/campos.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/campos.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/gomez.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/gomez.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/lerog.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/lerog.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/lozada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/lozada.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/octobre.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/octobre.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/pascual.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/pascual.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/sampiano.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/sampiano.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/marihatag/yu.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/marihatag/yu.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380685/images/candidates/first/marihatag/campos_o8dh3o.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380685/images/candidates/first/marihatag/campos_o8dh3o.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380685/images/candidates/first/marihatag/gomez_mtxbnq.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380685/images/candidates/first/marihatag/gomez_mtxbnq.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380685/images/candidates/first/marihatag/lerog_jvdgfx.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380685/images/candidates/first/marihatag/lerog_jvdgfx.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380685/images/candidates/first/marihatag/lozada_siub92.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380685/images/candidates/first/marihatag/lozada_siub92.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380686/images/candidates/first/marihatag/octobre_guip31.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380686/images/candidates/first/marihatag/octobre_guip31.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380686/images/candidates/first/marihatag/pascual_phlajd.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380686/images/candidates/first/marihatag/pascual_phlajd.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380686/images/candidates/first/marihatag/sampiano_m9kfoh.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380686/images/candidates/first/marihatag/sampiano_m9kfoh.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380685/images/candidates/first/marihatag/yu_oztyrg.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380685/images/candidates/first/marihatag/yu_oztyrg.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                    </div>
@@ -688,32 +688,32 @@ button.btn.btn-link i {
                    data-parent="#municipalityFirstDistrict">
                    <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/alameda.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/alameda.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/san agustin/de guzman.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/de guzman.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380705/images/candidates/first/san%20agustin/alameda_fxb5go.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380705/images/candidates/first/san%20agustin/alameda_fxb5go.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380705/images/candidates/first/san%20agustin/de_guzman_dmbmki.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380705/images/candidates/first/san%20agustin/de_guzman_dmbmki.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="pt-0 pb-0">
                         <h1 class="fgrey">SB Members</h1>
                     </div>
                     <div class="candidates" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/bcampos.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/bcampos.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/rcampos.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/rcampos.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/climaco.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/climaco.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/lamela.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/lamela.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/layson.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/layson.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/martinez.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/martinez.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/osorio.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/osorio.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/san agustin/simplicio.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/san agustin/simplicio.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380705/images/candidates/first/san%20agustin/bcampos_g69fx5.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380705/images/candidates/first/san%20agustin/bcampos_g69fx5.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380706/images/candidates/first/san%20agustin/rcampos_ibmfsd.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380706/images/candidates/first/san%20agustin/rcampos_ibmfsd.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380705/images/candidates/first/san%20agustin/climaco_o3jrrt.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380705/images/candidates/first/san%20agustin/climaco_o3jrrt.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380705/images/candidates/first/san%20agustin/lamela_wfnfuq.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380705/images/candidates/first/san%20agustin/lamela_wfnfuq.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380706/images/candidates/first/san%20agustin/layson_rlayaq.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380706/images/candidates/first/san%20agustin/layson_rlayaq.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380706/images/candidates/first/san%20agustin/martinez_amhzxz.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380706/images/candidates/first/san%20agustin/martinez_amhzxz.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380706/images/candidates/first/san%20agustin/osorio_avgpa8.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380706/images/candidates/first/san%20agustin/osorio_avgpa8.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380705/images/candidates/first/san%20agustin/simplicio_rm9ghc.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380705/images/candidates/first/san%20agustin/simplicio_rm9ghc.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                    </div>
@@ -735,32 +735,32 @@ button.btn.btn-link i {
                    data-parent="#municipalityFirstDistrict">
                    <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lianga/pedrozo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lianga/pedrozo.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/first/lianga/layno.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lianga/layno.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/pedrozo_ycc5b3.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/pedrozo_ycc5b3.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href="#"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/layno_yq8uwo.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/layno_yq8uwo.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="pt-0 pb-0">
                         <h1 class="fgrey">SB Members</h1>
                     </div>
                     <div class="candidates" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lianga/balaan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lianga/balaan.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lianga/dollano.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lianga/dollano.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lianga/dominguito.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lianga/dominguito.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lianga/lala.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lianga/lala.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lianga/mesagrande.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lianga/mesagrande.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lianga/quezada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lianga/quezada.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lianga/quico.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lianga/quico.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/first/lianga/samarah.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/first/lianga/samarah.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/balaan_rtxm5k.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/balaan_rtxm5k.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/dollano_i4vhrg.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/dollano_i4vhrg.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/dominguito_iwlhcw.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/dominguito_iwlhcw.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/lala_ylyvx0.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/lala_ylyvx0.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/mesagrande_yj3wsl.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/mesagrande_yj3wsl.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/quezada_k7obn9.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/quezada_k7obn9.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/quico_nonwgl.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/quico_nonwgl.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/samarah_xs1keo.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380625/images/candidates/first/lianga/samarah_xs1keo.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                    </div>
@@ -778,23 +778,23 @@ button.btn.btn-link i {
             <h1 class="fgrey">2nd District</h1>
         </div>
         <div class="candidates" id="kilalanin">
-            <div class="candidate w-224 clg-hidden"><a href="#"><img src="{{ asset('assets/images/candidates/jpimentel.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/jpimentel.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-224 clg-hidden"><a href="#"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380169/images/candidates/jpimentel_pvziva.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380169/images/candidates/jpimentel_pvziva.webp" alt="" title=""></a></div>
         </div>
         <div class="pt-1 pb-1">
             <h1 class="fgrey">Board Members</h1>
         </div>
         <div class="candidates" id="kilalanin">
-            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/canedo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/canedo.png') }}" alt="" title=""></a></div>
-            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/cejoco.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/cejoco.png') }}" alt="" title=""></a></div>
-            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/garay.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/garay.png') }}" alt="" title=""></a></div>
-            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/salazar.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/salazar.png') }}" alt="" title=""></a></div>
-            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/sayawan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/sayawan.png') }}" alt="" title=""></a></div>
+            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380836/images/candidates/second/canedo_jcmp4u.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380836/images/candidates/second/canedo_jcmp4u.webp" alt="" title=""></a></div>
+            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380836/images/candidates/second/cejoco_zb974z.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380836/images/candidates/second/cejoco_zb974z.webp" alt="" title=""></a></div>
+            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380837/images/candidates/second/garay_xf6tik.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380837/images/candidates/second/garay_xf6tik.webp" alt="" title=""></a></div>
+            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380837/images/candidates/second/salazar_nb4er0.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380837/images/candidates/second/salazar_nb4er0.webp" alt="" title=""></a></div>
+            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380836/images/candidates/second/sayawan_nrzids.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380836/images/candidates/second/sayawan_nrzids.webp" alt="" title=""></a></div>
             <div class="clear"></div>
         </div>
 
@@ -816,36 +816,36 @@ button.btn.btn-link i {
                        data-parent="#municipalitySecondDistrict">
                        <div class="p-t">
                            <div class="candidates pt-2" id="kilalanin">
-                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/garay.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                               <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/bislig/garay.png') }}" alt="" title=""></a></div>
-                               <div class="candidate w-224  clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates//second/bislig/castillo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                               <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/bislig/castillo.png') }}" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380892/images/candidates/second/bislig/garay_x6myau.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380892/images/candidates/second/bislig/garay_x6myau.webp" alt="" title=""></a></div>
+                               <div class="candidate w-224  clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/castillo_m1rmn7.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/castillo_m1rmn7.webp" alt="" title=""></a></div>
                                <div class="clear"></div>
                            </div>
                            <div class="pt-0 pb-0">
                                <h1 class="fgrey">SB Members</h1>
                            </div>
                            <div class="candidates" id="kilalanin">
-                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/alvar.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/alvar.png') }}" alt="" title=""></a></div>
-                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/alvizo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/alvizo.png') }}" alt="" title=""></a></div>
-                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/casas.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/casas.png') }}" alt="" title=""></a></div>
-                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/chicano.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/chicano.png') }}" alt="" title=""></a></div>
-                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/corvera.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/corvera.png') }}" alt="" title=""></a></div>
-                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/dominguez.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/dominguez.png') }}" alt="" title=""></a></div>
-                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/manada.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/manada.png') }}" alt="" title=""></a></div>
-                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/sia.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/sia.png') }}" alt="" title=""></a></div>
-                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/sulapas.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/sulapas.png') }}" alt="" title=""></a></div>
-                               <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/bislig/viduya.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/bislig/viduya.png') }}" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/alvar_xgo8by.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/alvar_xgo8by.webp" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/alvizo_say9xs.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/alvizo_say9xs.webp" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/casas_pabo3u.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/casas_pabo3u.webp" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/chicano_evrbut.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/chicano_evrbut.webp" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/corvera_llrnh5.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/corvera_llrnh5.webp" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/dominguez_fktzrz.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/dominguez_fktzrz.webp" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380892/images/candidates/second/bislig/manada_ewz5ms.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380892/images/candidates/second/bislig/manada_ewz5ms.webp" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/sia_uia3d6.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/sia_uia3d6.webp" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/sulapas_mhyuz7.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/sulapas_mhyuz7.webp" alt="" title=""></a></div>
+                               <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/viduya_vihecp.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                               <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380891/images/candidates/second/bislig/viduya_vihecp.webp" alt="" title=""></a></div>
                                <div class="clear"></div>
                            </div>
                        </div>
@@ -868,32 +868,32 @@ button.btn.btn-link i {
                     data-parent="#municipalitySecondDistrict">
                     <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/barobo/pama.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/barobo/pama.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224  clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates//second/barobo/bernal.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/barobo/bernal.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380858/images/candidates/second/barobo/pama_oevmnz.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380858/images/candidates/second/barobo/pama_oevmnz.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224  clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380857/images/candidates/second/barobo/bernal_zmgdgf.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380857/images/candidates/second/barobo/bernal_zmgdgf.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                         <div class="pt-0 pb-0">
                             <h1 class="fgrey">SB Members</h1>
                         </div>
                         <div class="candidates" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/barobo/avila.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/barobo/avila.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/barobo/bacolod.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/barobo/bacolod.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/barobo/nbalahay.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/barobo/nbalahay.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/barobo/rbalahay.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/barobo/rbalahay.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/barobo/caybot.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/barobo/caybot.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/barobo/lumampas.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/barobo/lumampas.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/barobo/mosquera.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/barobo/mosquera.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/barobo/ronquillo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/barobo/ronquillo.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380857/images/candidates/second/barobo/avila_kn1jjb.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380857/images/candidates/second/barobo/avila_kn1jjb.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380857/images/candidates/second/barobo/bacolod_ahoncm.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380857/images/candidates/second/barobo/bacolod_ahoncm.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380858/images/candidates/second/barobo/nbalahay_dceooe.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380858/images/candidates/second/barobo/nbalahay_dceooe.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380858/images/candidates/second/barobo/rbalahay_v4og0n.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380858/images/candidates/second/barobo/rbalahay_v4og0n.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380858/images/candidates/second/barobo/caybot_caoqiy.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380858/images/candidates/second/barobo/caybot_caoqiy.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380858/images/candidates/second/barobo/lumampas_xza6ao.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380858/images/candidates/second/barobo/lumampas_xza6ao.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380858/images/candidates/second/barobo/mosquera_hdz1is.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380858/images/candidates/second/barobo/mosquera_hdz1is.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380857/images/candidates/second/barobo/ronquillo_pcepyi.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380857/images/candidates/second/barobo/ronquillo_pcepyi.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                     </div>
@@ -914,30 +914,30 @@ button.btn.btn-link i {
                     data-parent="#municipalitySecondDistrict">
                     <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/tagbina/enaraiso.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/tagbina/enaraiso.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224  clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates//second/tagbina/gnaraiso.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/tagbina/gnaraiso.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380964/images/candidates/second/tagbina/enaraiso_dpcc2r.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380964/images/candidates/second/tagbina/enaraiso_dpcc2r.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224  clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380965/images/candidates/second/tagbina/gnaraiso_xxkrdf.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380965/images/candidates/second/tagbina/gnaraiso_xxkrdf.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                         <div class="pt-0 pb-0">
                             <h1 class="fgrey">SB Members</h1>
                         </div>
                         <div class="candidates" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/tagbina/balili.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/tagbina/balili.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/tagbina/dalacan.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/tagbina/dalacan.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/tagbina/estavillo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/tagbina/estavillo.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/tagbina/luchavez.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/tagbina/luchavez.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/tagbina/pabelonia.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/tagbina/pabelonia.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/tagbina/polizon.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/tagbina/polizon.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/tagbina/ramas.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/tagbina/ramas.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380964/images/candidates/second/tagbina/balili_klzrza.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380964/images/candidates/second/tagbina/balili_klzrza.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380964/images/candidates/second/tagbina/dalacan_weftyp.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380964/images/candidates/second/tagbina/dalacan_weftyp.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380964/images/candidates/second/tagbina/estavillo_nqdzgg.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380964/images/candidates/second/tagbina/estavillo_nqdzgg.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380965/images/candidates/second/tagbina/luchavez_qvczu9.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380965/images/candidates/second/tagbina/luchavez_qvczu9.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380965/images/candidates/second/tagbina/pabelonia_yo0edu.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380965/images/candidates/second/tagbina/pabelonia_yo0edu.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380965/images/candidates/second/tagbina/polizon_yaslll.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380965/images/candidates/second/tagbina/polizon_yaslll.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380964/images/candidates/second/tagbina/ramas_sianzn.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380964/images/candidates/second/tagbina/ramas_sianzn.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                     </div>
@@ -959,32 +959,32 @@ button.btn.btn-link i {
                     data-parent="#municipalitySecondDistrict">
                     <div class="p-t">
                         <div class="candidates pt-2" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/hinatuan/tgaray.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/hinatuan/tgaray.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224  clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates//second/hinatuan/canedo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/hinatuan/canedo.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380914/images/candidates/second/hinatuan/tgaray_mbndi5.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380914/images/candidates/second/hinatuan/tgaray_mbndi5.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224  clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380913/images/candidates/second/hinatuan/canedo_larabj.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380913/images/candidates/second/hinatuan/canedo_larabj.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                         <div class="pt-0 pb-0">
                             <h1 class="fgrey">SB Members</h1>
                         </div>
                         <div class="candidates" id="kilalanin">
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/hinatuan/basigsig.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/hinatuan/basigsig.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/hinatuan/cacho.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/hinatuan/cacho.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/hinatuan/su.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/hinatuan/su.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/hinatuan/dinagay.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/hinatuan/dinagay.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/hinatuan/fullo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/hinatuan/fullo.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/hinatuan/garay.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/hinatuan/garay.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/hinatuan/ortiz.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/hinatuan/ortiz.png') }}" alt="" title=""></a></div>
-                            <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/hinatuan/villaluz.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/hinatuan/villaluz.png') }}" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380913/images/candidates/second/hinatuan/basigsig_eiyrbq.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380913/images/candidates/second/hinatuan/basigsig_eiyrbq.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380913/images/candidates/second/hinatuan/cacho_lmy3bl.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380913/images/candidates/second/hinatuan/cacho_lmy3bl.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380914/images/candidates/second/hinatuan/su_hs9gpm.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380914/images/candidates/second/hinatuan/su_hs9gpm.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380914/images/candidates/second/hinatuan/dinagay_vxfuaj.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380914/images/candidates/second/hinatuan/dinagay_vxfuaj.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380914/images/candidates/second/hinatuan/fullo_ogis4z.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380914/images/candidates/second/hinatuan/fullo_ogis4z.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380914/images/candidates/second/hinatuan/garay_v88yj9.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380914/images/candidates/second/hinatuan/garay_v88yj9.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380914/images/candidates/second/hinatuan/ortiz_gqdw23.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380914/images/candidates/second/hinatuan/ortiz_gqdw23.webp" alt="" title=""></a></div>
+                            <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380913/images/candidates/second/hinatuan/villaluz_tolwvl.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                            <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380913/images/candidates/second/hinatuan/villaluz_tolwvl.webp" alt="" title=""></a></div>
                             <div class="clear"></div>
                         </div>
                     </div>
@@ -1006,32 +1006,32 @@ button.btn.btn-link i {
                    data-parent="#municipalitySecondDistrict">
                    <div class="p-t">
                     <div class="candidates pt-2" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/lingig/evangelio.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/lingig/evangelio.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224  clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates//second/lingig/acdog.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates//second/lingig/acdog.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/evangelio_uepzcb.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/evangelio_uepzcb.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224  clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/acdog_vkuerb.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325  m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/acdog_vkuerb.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                     <div class="pt-0 pb-0">
                         <h1 class="fgrey">SB Members</h1>
                     </div>
                     <div class="candidates" id="kilalanin">
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/lingig/canoy.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/lingig/canoy.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/lingig/deloso.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/lingig/deloso.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/lingig/nonong.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/lingig/nonong.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/lingig/onsing.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/lingig/onsing.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/lingig/orillo.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/lingig/orillo.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/lingig/paler.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/lingig/paler.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/lingig/plaza.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/lingig/plaza.png') }}" alt="" title=""></a></div>
-                        <div class="candidate w-224 clg-hidden"><a href=""><img src="{{ asset('assets/images/candidates/second/lingig/restificar.png') }}" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
-                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="{{ asset('assets/images/candidates/second/lingig/restificar.png') }}" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/canoy_er9fpq.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/canoy_er9fpq.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/deloso_noidjx.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href=""><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/deloso_noidjx.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/nonong_eitrhz.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/nonong_eitrhz.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/onsing_cpmugc.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/onsing_cpmugc.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/orillo_pve4ob.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/orillo_pve4ob.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/paler_eajkap.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/paler_eajkap.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/plaza_rd4byr.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/plaza_rd4byr.webp" alt="" title=""></a></div>
+                        <div class="candidate w-224 clg-hidden"><a href=""><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/restificar_trjuss.webp" class="lg-hidden img-thumbnail shadow" alt="" title=""></a></div>
+                        <div class="candidate w-325 m-negmargin-5 cxs-hidden"><a href="#"><img class="img-thumbnail shadow" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380936/images/candidates/second/lingig/restificar_trjuss.webp" alt="" title=""></a></div>
                         <div class="clear"></div>
                     </div>
                    </div>

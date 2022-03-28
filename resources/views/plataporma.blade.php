@@ -11,7 +11,7 @@
             <div class="carousel slide" data-ride="carousel" id="group2">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                            <img style="height: 550px;" src="{{ asset('assets/images/plataporma2.jpg') }}"></p>
+                            <img style="height: 550px;" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380048/images/plataporma2_tqqhaz.webp"></p>
                     </div>
                 </div>
             </div>
@@ -20,7 +20,7 @@
             <div class="carousel slide" data-ride="carousel" id="group2">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                            <p class="ico"><img style="height: 50%;" src="{{ asset('assets/images/plataporma2.jpg') }}"></p>
+                            <p class="ico"><img style="height: 50%;" src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380048/images/plataporma2_tqqhaz.webp"></p>
                     </div>
                 </div>
             </div>
@@ -30,7 +30,7 @@
 
     <div class="section white">
         <div class="platform">
-            <p class="ico"><img src="{{ asset('assets/images/surigao/S.png') }}"></p>
+            <p class="ico"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380085/images/surigao/S_qywpkv.webp"></p>
             <ul>
                 <li><p> Suportaran ang mga komprehensibong balaod proteksyon sa kinaiyahan</p></li>
                 <li><p> Undangon ang pagpagawas sa aplikasyon sa mina</p></li>
@@ -42,13 +42,13 @@
 <!--Platform 1 -->
 <div class="section grey">
 	<div class="diagonal-divider-top">
-		<img src="{{ asset('assets/images/divider-white-0.png') }}" >
+		<img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380047/images/divider-white-0_u8znvg.webp" >
 	</div>
 </div>
 <div class="section grey">
 	<div class="platform">
         <div class="top-pad">&nbsp;</div>
-		<p class="ico"><img src="{{ asset('assets/images/surigao/U.png') }}"></p>
+		<p class="ico"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380086/images/surigao/U_cp0mpx.webp"></p>
 		<ul>
 			<li><p> Mentinahon ang Kahapsay ug Kalinaw</p></li>
 			<li><p> Ipadayon ang kagawasan sa droga pinaagi sa pakiglambigit sa BADAC ug CADAC ug MADAC</p></li>
@@ -59,7 +59,7 @@
 </div>
 <div class="section grey">
 	<div class="diagonal-divider-top">
-		<img src="{{ asset('/assets/images/divider-grey-0.png') }}" >
+		<img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380047/images/divider-grey-0_lxvfy8.webp" >
 	</div>
 </div>
 
@@ -68,7 +68,7 @@
 <div class="section white">
 	<div class="platform">
 		<div class="top-pad">&nbsp;</div>
-		<p class="ico"><img src="{{ asset('assets/images/surigao/R.png') }}"></p>
+		<p class="ico"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380085/images/surigao/R_gp5cez.webp"></p>
         <ul>
 			<li><p> Pakusgan ang katakos sa pagpangandam, pagresponde ug pagbangon gikan sa kadaut epekto sa kalamidad</p></li>
 		</ul>
@@ -92,7 +92,7 @@
 </div>
 <div class="section white">
 	<div class="diagonal-divider-bottom">
-		<img src="{{ asset('assets/images/divider-0-grey.png') }}" >
+		<img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380046/images/divider-0-grey_pxm8oy.webp" >
 	</div>
 </div>
 
@@ -100,7 +100,7 @@
 
 <div class="section grey">
 	<div class="platform">
-		<p class="ico"><img src="{{ asset('assets/images/surigao/I.png') }}"></p>
+		<p class="ico"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380085/images/surigao/I_tfruog.webp"></p>
 		<ul>
 			<li><p> Tarong nga Kadalanan para sa mga <b>SURIGAONON</b></p></li>
 			<li><p> Tarong nga mga Tulay para sa mga <b>SURIGAONON</b></p></li>
@@ -110,7 +110,7 @@
 </div>
 <div class="section grey">
 	<div class="diagonal-divider-top">
-		<img src="{{ asset('/assets/images/divider-grey-0.png') }}" >
+		<img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380047/images/divider-grey-0_lxvfy8.webp" >
 	</div>
 </div>
 
@@ -118,7 +118,7 @@
 <div class="section white">
 	<div class="platform">
 		<div class="top-pad">&nbsp;</div>
-		<p class="ico"><img src="{{ asset('assets/images/surigao/G.png') }}"></p>
+		<p class="ico"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380085/images/surigao/G_yxy8im.webp"></p>
 		<ul>
 			<li><p> Klaro, Han-ay,Tinud-anay ug Diosnon nga Gobyernong <b>SURIGAONON</b></p></li>
 			<li><p> May Kahadlok ug Tulubagon sa <b>SURIGAONON</b></p></li>
@@ -131,7 +131,7 @@
 </div>
 <div class="section white">
 	<div class="diagonal-divider-bottom">
-		<img src="{{ asset('assets/images/divider-0-grey.png') }}" >
+		<img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380046/images/divider-0-grey_pxm8oy.webp" >
 	</div>
 </div>
 
@@ -139,7 +139,7 @@
 
 <div class="section grey">
 	<div class="platform">
-		<p class="ico"><img src="{{ asset('assets/images/surigao/A.png') }}"></p>
+		<p class="ico"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380085/images/surigao/A_offshi.webp"></p>
 		<ul>
 			<li><p> Padayon sa Pagtukod ug mga Inprastrakturang pang Agrikultura</p></li>
 			<li><p> Padayon sa Panghatag ug mga Agrikulturang Kagamitan</p></li>
@@ -152,14 +152,14 @@
 </div>
 <div class="section grey">
 	<div class="diagonal-divider-top">
-		<img src="{{ asset('/assets/images/divider-grey-0.png') }}" >
+		<img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380047/images/divider-grey-0_lxvfy8.webp" >
 	</div>
 </div>
 
 <div class="section white">
 	<div class="platform">
         <div class="top-pad">&nbsp;</div>
-		<p class="ico"><img src="{{ asset('assets/images/surigao/O.png') }}"></p>
+		<p class="ico"><img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380085/images/surigao/O_wf7svz.webp"></p>
 		<ul>
 			<li><p> Sakto nga Serbisyo sa Panglawas, Nutrisyon, Ngipon, Sosyal ug Edukasyon </p></li>
 			<li><p> Programang matagaan ug saktong oportunidad ang mga Kabataan nga Molambo</p></li>
@@ -170,7 +170,7 @@
 </div>
 <div class="section white">
 	<div class="diagonal-divider-bottom">
-		<img src="{{ asset('assets/images/divider-0-grey.png') }}" >
+		<img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380046/images/divider-0-grey_pxm8oy.webp" >
 	</div>
 </div>
 
@@ -178,7 +178,7 @@
 
 <div class="section white">
 	<div class="diagonal-divider-bottom">
-		<img src="{{ asset('assets/images/divider-0-white.png') }}" >
+		<img src="https://res.cloudinary.com/djqqh07cr/image/upload/v1646380047/images/divider-0-white_ioqng2.webp" >
 	</div>
 </div>
 
